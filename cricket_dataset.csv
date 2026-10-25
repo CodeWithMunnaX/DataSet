@@ -1,0 +1,1001 @@
+Match_ID,Match_Date,Player_Name,Team,Opposition,Role,Format,Venue,Runs_Scored,Balls_Faced,Strike_Rate,Wickets_Taken
+M1001,2019-01-17,Shoriful Islam,Bangladesh,New Zealand,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",0,3,0.0,1
+M1001,2019-01-17,Najmul Hossain Shanto,Bangladesh,New Zealand,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",4,4,100.0,0
+M1001,2019-01-17,Mehidy Hasan Miraz,Bangladesh,New Zealand,All-rounder,ODI,"Shere Bangla National Stadium, Dhaka",59,48,122.92,2
+M1001,2019-01-17,Taijul Islam,Bangladesh,New Zealand,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",2,4,50.0,2
+M1001,2019-01-17,Taskin Ahmed,Bangladesh,New Zealand,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",10,13,76.92,1
+M1002,2019-01-18,Rahmanullah Gurbaz,Afghanistan,Pakistan,Wicket-keeper,T20I,Rawalpindi Cricket Stadium,3,3,100.0,0
+M1002,2019-01-18,Fazalhaq Farooqi,Afghanistan,Pakistan,Bowler,T20I,Rawalpindi Cricket Stadium,5,4,125.0,1
+M1002,2019-01-18,Saud Shakeel,Pakistan,Afghanistan,Batsman,T20I,Rawalpindi Cricket Stadium,25,32,78.12,0
+M1002,2019-01-18,Azmatullah Omarzai,Afghanistan,Pakistan,All-rounder,T20I,Rawalpindi Cricket Stadium,0,7,0.0,0
+M1002,2019-01-18,Haris Rauf,Pakistan,Afghanistan,Bowler,T20I,Rawalpindi Cricket Stadium,8,7,114.29,2
+M1003,2019-02-04,Tim Southee,New Zealand,Pakistan,Bowler,Test,"Gaddafi Stadium, Lahore",6,20,30.0,7
+M1003,2019-02-04,Glenn Phillips,New Zealand,Pakistan,All-rounder,Test,"Gaddafi Stadium, Lahore",15,20,75.0,1
+M1003,2019-02-04,Mohammad Rizwan,Pakistan,New Zealand,Wicket-keeper,Test,"Gaddafi Stadium, Lahore",1,3,33.33,0
+M1003,2019-02-04,Daryl Mitchell,New Zealand,Pakistan,Batsman,Test,"Gaddafi Stadium, Lahore",41,74,55.41,0
+M1003,2019-02-04,Saud Shakeel,Pakistan,New Zealand,Batsman,Test,"Gaddafi Stadium, Lahore",26,45,57.78,0
+M1004,2019-02-13,Mohammad Nabi,Afghanistan,South Africa,All-rounder,T20I,"Kingsmead, Durban",16,12,133.33,1
+M1004,2019-02-13,Aiden Markram,South Africa,Afghanistan,Batsman,T20I,"Kingsmead, Durban",36,27,133.33,0
+M1004,2019-02-13,Gulbadin Naib,Afghanistan,South Africa,All-rounder,T20I,"Kingsmead, Durban",1,1,100.0,0
+M1004,2019-02-13,Naveen-ul-Haq,Afghanistan,South Africa,Bowler,T20I,"Kingsmead, Durban",2,2,100.0,1
+M1004,2019-02-13,David Miller,South Africa,Afghanistan,Batsman,T20I,"Kingsmead, Durban",61,55,110.91,0
+M1005,2019-02-14,Naveen-ul-Haq,Afghanistan,Bangladesh,Bowler,ODI,Sharjah Cricket Stadium,0,1,0.0,2
+M1005,2019-02-14,Mehidy Hasan Miraz,Bangladesh,Afghanistan,All-rounder,ODI,Sharjah Cricket Stadium,9,11,81.82,2
+M1005,2019-02-14,Mohammad Nabi,Afghanistan,Bangladesh,All-rounder,ODI,Sharjah Cricket Stadium,43,65,66.15,1
+M1005,2019-02-14,Towhid Hridoy,Bangladesh,Afghanistan,Batsman,ODI,Sharjah Cricket Stadium,32,34,94.12,0
+M1005,2019-02-14,Litton Das,Bangladesh,Afghanistan,Wicket-keeper,ODI,Sharjah Cricket Stadium,26,24,108.33,0
+M1006,2019-02-22,Kusal Mendis,Sri Lanka,India,Wicket-keeper,ODI,Galle International Stadium,1,1,100.0,0
+M1006,2019-02-22,Kasun Rajitha,Sri Lanka,India,Bowler,ODI,Galle International Stadium,0,4,0.0,1
+M1006,2019-02-22,Charith Asalanka,Sri Lanka,India,Batsman,ODI,Galle International Stadium,36,43,83.72,0
+M1006,2019-02-22,Rishabh Pant,India,Sri Lanka,Wicket-keeper,ODI,Galle International Stadium,10,14,71.43,0
+M1006,2019-02-22,Kuldeep Yadav,India,Sri Lanka,Bowler,ODI,Galle International Stadium,37,40,92.5,3
+M1007,2019-03-03,Najmul Hossain Shanto,Bangladesh,England,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",29,20,145.0,0
+M1007,2019-03-03,Towhid Hridoy,Bangladesh,England,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",10,12,83.33,0
+M1007,2019-03-03,Litton Das,Bangladesh,England,Wicket-keeper,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1,100.0,0
+M1007,2019-03-03,Shakib Al Hasan,Bangladesh,England,All-rounder,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1,100.0,2
+M1007,2019-03-03,Joe Root,England,Bangladesh,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1,100.0,0
+M1008,2019-03-03,Harry Brook,England,Sri Lanka,Batsman,Test,"Old Trafford, Manchester",110,266,41.35,1
+M1008,2019-03-03,Maheesh Theekshana,Sri Lanka,England,Bowler,Test,"Old Trafford, Manchester",3,7,42.86,2
+M1008,2019-03-03,Jonny Bairstow,England,Sri Lanka,Wicket-keeper,Test,"Old Trafford, Manchester",12,35,34.29,0
+M1008,2019-03-03,Kasun Rajitha,Sri Lanka,England,Bowler,Test,"Old Trafford, Manchester",3,20,15.0,1
+M1008,2019-03-03,Pathum Nissanka,Sri Lanka,England,Batsman,Test,"Old Trafford, Manchester",28,57,49.12,0
+M1009,2019-04-18,Heinrich Klaasen,South Africa,India,Wicket-keeper,ODI,"SuperSport Park, Centurion",35,28,125.0,0
+M1009,2019-04-18,David Miller,South Africa,India,Batsman,ODI,"SuperSport Park, Centurion",17,24,70.83,0
+M1009,2019-04-18,Jasprit Bumrah,India,South Africa,Bowler,ODI,"SuperSport Park, Centurion",2,3,66.67,2
+M1009,2019-04-18,Keshav Maharaj,South Africa,India,Bowler,ODI,"SuperSport Park, Centurion",13,24,54.17,1
+M1009,2019-04-18,Mohammed Shami,India,South Africa,Bowler,ODI,"SuperSport Park, Centurion",5,10,50.0,4
+M1010,2019-05-02,Keshav Maharaj,South Africa,Afghanistan,Bowler,T20I,"Sheikh Zayed Stadium, Abu Dhabi",8,12,66.67,1
+M1010,2019-05-02,Heinrich Klaasen,South Africa,Afghanistan,Wicket-keeper,T20I,"Sheikh Zayed Stadium, Abu Dhabi",2,1,200.0,0
+M1010,2019-05-02,Marco Jansen,South Africa,Afghanistan,All-rounder,T20I,"Sheikh Zayed Stadium, Abu Dhabi",7,7,100.0,1
+M1010,2019-05-02,Mujeeb Ur Rahman,Afghanistan,South Africa,Bowler,T20I,"Sheikh Zayed Stadium, Abu Dhabi",3,3,100.0,1
+M1010,2019-05-02,Quinton de Kock,South Africa,Afghanistan,Wicket-keeper,T20I,"Sheikh Zayed Stadium, Abu Dhabi",6,4,150.0,0
+M1011,2019-05-09,Harry Brook,England,India,Batsman,Test,"M. Chinnaswamy Stadium, Bengaluru",41,112,36.61,0
+M1011,2019-05-09,Virat Kohli,India,England,Batsman,Test,"M. Chinnaswamy Stadium, Bengaluru",0,6,0.0,0
+M1011,2019-05-09,Rishabh Pant,India,England,Wicket-keeper,Test,"M. Chinnaswamy Stadium, Bengaluru",16,35,45.71,0
+M1011,2019-05-09,Moeen Ali,England,India,All-rounder,Test,"M. Chinnaswamy Stadium, Bengaluru",0,6,0.0,1
+M1011,2019-05-09,Rohit Sharma,India,England,Batsman,Test,"M. Chinnaswamy Stadium, Bengaluru",101,214,47.2,0
+M1012,2019-05-12,Glenn Phillips,New Zealand,West Indies,All-rounder,ODI,"Providence Stadium, Guyana",31,30,103.33,1
+M1012,2019-05-12,Andre Russell,West Indies,New Zealand,All-rounder,ODI,"Providence Stadium, Guyana",13,21,61.9,0
+M1012,2019-05-12,Shai Hope,West Indies,New Zealand,Wicket-keeper,ODI,"Providence Stadium, Guyana",102,85,120.0,0
+M1012,2019-05-12,Alzarri Joseph,West Indies,New Zealand,Bowler,ODI,"Providence Stadium, Guyana",0,2,0.0,0
+M1012,2019-05-12,Kemar Roach,West Indies,New Zealand,Bowler,ODI,"Providence Stadium, Guyana",7,12,58.33,3
+M1013,2019-05-17,Naseem Shah,Pakistan,West Indies,Bowler,ODI,"Providence Stadium, Guyana",6,14,42.86,1
+M1013,2019-05-17,Shaheen Afridi,Pakistan,West Indies,Bowler,ODI,"Providence Stadium, Guyana",7,10,70.0,2
+M1013,2019-05-17,Kemar Roach,West Indies,Pakistan,Bowler,ODI,"Providence Stadium, Guyana",3,5,60.0,1
+M1013,2019-05-17,Andre Russell,West Indies,Pakistan,All-rounder,ODI,"Providence Stadium, Guyana",62,73,84.93,1
+M1013,2019-05-17,Shai Hope,West Indies,Pakistan,Wicket-keeper,ODI,"Providence Stadium, Guyana",0,6,0.0,0
+M1014,2019-06-14,Shubman Gill,India,England,Batsman,Test,"Wankhede Stadium, Mumbai",96,242,39.67,0
+M1014,2019-06-14,Rohit Sharma,India,England,Batsman,Test,"Wankhede Stadium, Mumbai",0,4,0.0,0
+M1014,2019-06-14,Rishabh Pant,India,England,Wicket-keeper,Test,"Wankhede Stadium, Mumbai",12,22,54.55,0
+M1014,2019-06-14,Jos Buttler,England,India,Wicket-keeper,Test,"Wankhede Stadium, Mumbai",4,8,50.0,0
+M1014,2019-06-14,Hardik Pandya,India,England,All-rounder,Test,"Wankhede Stadium, Mumbai",0,4,0.0,1
+M1015,2019-07-19,Shoriful Islam,Bangladesh,South Africa,Bowler,ODI,Sylhet International Stadium,13,28,46.43,1
+M1015,2019-07-19,Keshav Maharaj,South Africa,Bangladesh,Bowler,ODI,Sylhet International Stadium,0,1,0.0,0
+M1015,2019-07-19,Mushfiqur Rahim,Bangladesh,South Africa,Wicket-keeper,ODI,Sylhet International Stadium,42,84,50.0,0
+M1015,2019-07-19,Quinton de Kock,South Africa,Bangladesh,Wicket-keeper,ODI,Sylhet International Stadium,62,108,57.41,0
+M1015,2019-07-19,Taskin Ahmed,Bangladesh,South Africa,Bowler,ODI,Sylhet International Stadium,0,8,0.0,1
+M1016,2019-07-27,Mehidy Hasan Miraz,Bangladesh,West Indies,All-rounder,ODI,"Shere Bangla National Stadium, Dhaka",57,53,107.55,2
+M1016,2019-07-27,Akeal Hosein,West Indies,Bangladesh,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",12,17,70.59,1
+M1016,2019-07-27,Litton Das,Bangladesh,West Indies,Wicket-keeper,ODI,"Shere Bangla National Stadium, Dhaka",3,2,150.0,0
+M1016,2019-07-27,Nicholas Pooran,West Indies,Bangladesh,Wicket-keeper,ODI,"Shere Bangla National Stadium, Dhaka",23,25,92.0,0
+M1016,2019-07-27,Shakib Al Hasan,Bangladesh,West Indies,All-rounder,ODI,"Shere Bangla National Stadium, Dhaka",3,3,100.0,1
+M1017,2019-08-18,KL Rahul,India,West Indies,Wicket-keeper,ODI,"M. Chinnaswamy Stadium, Bengaluru",27,38,71.05,0
+M1017,2019-08-18,Kemar Roach,West Indies,India,Bowler,ODI,"M. Chinnaswamy Stadium, Bengaluru",2,3,66.67,2
+M1017,2019-08-18,Alzarri Joseph,West Indies,India,Bowler,ODI,"M. Chinnaswamy Stadium, Bengaluru",15,22,68.18,2
+M1017,2019-08-18,Virat Kohli,India,West Indies,Batsman,ODI,"M. Chinnaswamy Stadium, Bengaluru",92,107,85.98,1
+M1017,2019-08-18,Rohit Sharma,India,West Indies,Batsman,ODI,"M. Chinnaswamy Stadium, Bengaluru",17,18,94.44,0
+M1018,2019-09-02,Rishabh Pant,India,West Indies,Wicket-keeper,ODI,"Wankhede Stadium, Mumbai",2,2,100.0,0
+M1018,2019-09-02,Kemar Roach,West Indies,India,Bowler,ODI,"Wankhede Stadium, Mumbai",8,29,27.59,3
+M1018,2019-09-02,Shubman Gill,India,West Indies,Batsman,ODI,"Wankhede Stadium, Mumbai",46,68,67.65,0
+M1018,2019-09-02,Hardik Pandya,India,West Indies,All-rounder,ODI,"Wankhede Stadium, Mumbai",3,3,100.0,1
+M1018,2019-09-02,Jason Holder,West Indies,India,All-rounder,ODI,"Wankhede Stadium, Mumbai",19,21,90.48,1
+M1019,2019-09-08,Haris Rauf,Pakistan,Sri Lanka,Bowler,ODI,"R. Premadasa Stadium, Colombo",3,5,60.0,1
+M1019,2019-09-08,Charith Asalanka,Sri Lanka,Pakistan,Batsman,ODI,"R. Premadasa Stadium, Colombo",39,39,100.0,0
+M1019,2019-09-08,Shaheen Afridi,Pakistan,Sri Lanka,Bowler,ODI,"R. Premadasa Stadium, Colombo",4,7,57.14,1
+M1019,2019-09-08,Dhananjaya de Silva,Sri Lanka,Pakistan,All-rounder,ODI,"R. Premadasa Stadium, Colombo",7,7,100.0,2
+M1019,2019-09-08,Mohammad Nawaz,Pakistan,Sri Lanka,All-rounder,ODI,"R. Premadasa Stadium, Colombo",0,3,0.0,5
+M1020,2019-09-17,Daryl Mitchell,New Zealand,Sri Lanka,Batsman,ODI,"Hagley Oval, Christchurch",7,9,77.78,0
+M1020,2019-09-17,Tom Latham,New Zealand,Sri Lanka,Wicket-keeper,ODI,"Hagley Oval, Christchurch",63,84,75.0,0
+M1020,2019-09-17,Dushmantha Chameera,Sri Lanka,New Zealand,Bowler,ODI,"Hagley Oval, Christchurch",0,1,0.0,1
+M1020,2019-09-17,Rachin Ravindra,New Zealand,Sri Lanka,All-rounder,ODI,"Hagley Oval, Christchurch",2,3,66.67,0
+M1020,2019-09-17,Matt Henry,New Zealand,Sri Lanka,Bowler,ODI,"Hagley Oval, Christchurch",10,12,83.33,3
+M1021,2019-09-18,Dhananjaya de Silva,Sri Lanka,England,All-rounder,Test,"Lord's, London",8,10,80.0,2
+M1021,2019-09-18,James Anderson,England,Sri Lanka,Bowler,Test,"Lord's, London",6,11,54.55,2
+M1021,2019-09-18,Dushmantha Chameera,Sri Lanka,England,Bowler,Test,"Lord's, London",6,12,50.0,4
+M1021,2019-09-18,Mark Wood,England,Sri Lanka,Bowler,Test,"Lord's, London",9,21,42.86,2
+M1021,2019-09-18,Jonny Bairstow,England,Sri Lanka,Wicket-keeper,Test,"Lord's, London",3,4,75.0,0
+M1022,2019-09-21,Hardik Pandya,India,Bangladesh,All-rounder,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",11,8,137.5,0
+M1022,2019-09-21,KL Rahul,India,Bangladesh,Wicket-keeper,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",14,8,175.0,0
+M1022,2019-09-21,Rohit Sharma,India,Bangladesh,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",11,8,137.5,0
+M1022,2019-09-21,Mohammed Shami,India,Bangladesh,Bowler,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",0,6,0.0,2
+M1022,2019-09-21,Najmul Hossain Shanto,Bangladesh,India,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",31,20,155.0,0
+M1023,2019-09-26,Keshav Maharaj,South Africa,England,Bowler,T20I,"SuperSport Park, Centurion",9,6,150.0,1
+M1023,2019-09-26,Harry Brook,England,South Africa,Batsman,T20I,"SuperSport Park, Centurion",35,25,140.0,0
+M1023,2019-09-26,Heinrich Klaasen,South Africa,England,Wicket-keeper,T20I,"SuperSport Park, Centurion",5,3,166.67,0
+M1023,2019-09-26,James Anderson,England,South Africa,Bowler,T20I,"SuperSport Park, Centurion",5,6,83.33,1
+M1023,2019-09-26,Temba Bavuma,South Africa,England,Batsman,T20I,"SuperSport Park, Centurion",73,70,104.29,0
+M1024,2019-10-08,Glenn Phillips,New Zealand,Afghanistan,All-rounder,ODI,Sharjah Cricket Stadium,25,24,104.17,2
+M1024,2019-10-08,Mitchell Santner,New Zealand,Afghanistan,All-rounder,ODI,Sharjah Cricket Stadium,20,18,111.11,0
+M1024,2019-10-08,Kane Williamson,New Zealand,Afghanistan,Batsman,ODI,Sharjah Cricket Stadium,50,57,87.72,0
+M1024,2019-10-08,Devon Conway,New Zealand,Afghanistan,Batsman,ODI,Sharjah Cricket Stadium,65,92,70.65,0
+M1024,2019-10-08,Trent Boult,New Zealand,Afghanistan,Bowler,ODI,Sharjah Cricket Stadium,6,12,50.0,7
+M1025,2019-10-12,James Anderson,England,Sri Lanka,Bowler,Test,"Old Trafford, Manchester",10,18,55.56,3
+M1025,2019-10-12,Dimuth Karunaratne,Sri Lanka,England,Batsman,Test,"Old Trafford, Manchester",48,94,51.06,0
+M1025,2019-10-12,Maheesh Theekshana,Sri Lanka,England,Bowler,Test,"Old Trafford, Manchester",4,14,28.57,2
+M1025,2019-10-12,Pathum Nissanka,Sri Lanka,England,Batsman,Test,"Old Trafford, Manchester",79,157,50.32,0
+M1025,2019-10-12,Jos Buttler,England,Sri Lanka,Wicket-keeper,Test,"Old Trafford, Manchester",24,65,36.92,0
+M1026,2019-10-20,Mehidy Hasan Miraz,Bangladesh,England,All-rounder,Test,"Edgbaston, Birmingham",47,101,46.53,2
+M1026,2019-10-20,Moeen Ali,England,Bangladesh,All-rounder,Test,"Edgbaston, Birmingham",51,75,68.0,1
+M1026,2019-10-20,Taijul Islam,Bangladesh,England,Bowler,Test,"Edgbaston, Birmingham",1,4,25.0,4
+M1026,2019-10-20,Ben Stokes,England,Bangladesh,All-rounder,Test,"Edgbaston, Birmingham",15,27,55.56,0
+M1026,2019-10-20,Jos Buttler,England,Bangladesh,Wicket-keeper,Test,"Edgbaston, Birmingham",31,53,58.49,0
+M1027,2019-10-28,Rachin Ravindra,New Zealand,England,All-rounder,ODI,"Seddon Park, Hamilton",83,94,88.3,2
+M1027,2019-10-28,Ben Duckett,England,New Zealand,Batsman,ODI,"Seddon Park, Hamilton",117,105,111.43,0
+M1027,2019-10-28,Joe Root,England,New Zealand,Batsman,ODI,"Seddon Park, Hamilton",23,19,121.05,0
+M1027,2019-10-28,Jos Buttler,England,New Zealand,Wicket-keeper,ODI,"Seddon Park, Hamilton",10,10,100.0,0
+M1027,2019-10-28,Zak Crawley,England,New Zealand,Batsman,ODI,"Seddon Park, Hamilton",16,15,106.67,0
+M1028,2019-11-01,Angelo Mathews,Sri Lanka,India,All-rounder,Test,Galle International Stadium,21,83,25.3,0
+M1028,2019-11-01,Kusal Mendis,Sri Lanka,India,Wicket-keeper,Test,Galle International Stadium,16,45,35.56,0
+M1028,2019-11-01,Kuldeep Yadav,India,Sri Lanka,Bowler,Test,Galle International Stadium,1,2,50.0,0
+M1028,2019-11-01,Wanindu Hasaranga,Sri Lanka,India,All-rounder,Test,Galle International Stadium,0,4,0.0,1
+M1028,2019-11-01,Charith Asalanka,Sri Lanka,India,Batsman,Test,Galle International Stadium,24,56,42.86,0
+M1029,2019-11-19,Dimuth Karunaratne,Sri Lanka,England,Batsman,ODI,Galle International Stadium,52,82,63.41,0
+M1029,2019-11-19,Maheesh Theekshana,Sri Lanka,England,Bowler,ODI,Galle International Stadium,9,10,90.0,2
+M1029,2019-11-19,Dushmantha Chameera,Sri Lanka,England,Bowler,ODI,Galle International Stadium,34,69,49.28,0
+M1029,2019-11-19,Mark Wood,England,Sri Lanka,Bowler,ODI,Galle International Stadium,0,1,0.0,2
+M1029,2019-11-19,Angelo Mathews,Sri Lanka,England,All-rounder,ODI,Galle International Stadium,0,2,0.0,0
+M1030,2019-11-21,Nicholas Pooran,West Indies,Sri Lanka,Wicket-keeper,T20I,"R. Premadasa Stadium, Colombo",1,1,100.0,0
+M1030,2019-11-21,Charith Asalanka,Sri Lanka,West Indies,Batsman,T20I,"R. Premadasa Stadium, Colombo",60,35,171.43,0
+M1030,2019-11-21,Jason Holder,West Indies,Sri Lanka,All-rounder,T20I,"R. Premadasa Stadium, Colombo",3,2,150.0,3
+M1030,2019-11-21,Dimuth Karunaratne,Sri Lanka,West Indies,Batsman,T20I,"R. Premadasa Stadium, Colombo",3,4,75.0,0
+M1030,2019-11-21,Angelo Mathews,Sri Lanka,West Indies,All-rounder,T20I,"R. Premadasa Stadium, Colombo",4,3,133.33,0
+M1031,2019-11-22,Akeal Hosein,West Indies,Australia,Bowler,ODI,Adelaide Oval,16,27,59.26,2
+M1031,2019-11-22,Josh Hazlewood,Australia,West Indies,Bowler,ODI,Adelaide Oval,21,29,72.41,1
+M1031,2019-11-22,Shimron Hetmyer,West Indies,Australia,Batsman,ODI,Adelaide Oval,22,28,78.57,0
+M1031,2019-11-22,David Warner,Australia,West Indies,Batsman,ODI,Adelaide Oval,67,77,87.01,0
+M1031,2019-11-22,Andre Russell,West Indies,Australia,All-rounder,ODI,Adelaide Oval,31,30,103.33,0
+M1032,2019-11-28,Rassie van der Dussen,South Africa,Afghanistan,Batsman,T20I,"SuperSport Park, Centurion",0,8,0.0,0
+M1032,2019-11-28,Marco Jansen,South Africa,Afghanistan,All-rounder,T20I,"SuperSport Park, Centurion",0,6,0.0,1
+M1032,2019-11-28,Temba Bavuma,South Africa,Afghanistan,Batsman,T20I,"SuperSport Park, Centurion",21,21,100.0,0
+M1032,2019-11-28,Fazalhaq Farooqi,Afghanistan,South Africa,Bowler,T20I,"SuperSport Park, Centurion",8,9,88.89,2
+M1032,2019-11-28,Mujeeb Ur Rahman,Afghanistan,South Africa,Bowler,T20I,"SuperSport Park, Centurion",0,8,0.0,2
+M1033,2019-12-12,Mohammad Rizwan,Pakistan,South Africa,Wicket-keeper,ODI,"Kingsmead, Durban",79,94,84.04,0
+M1033,2019-12-12,Babar Azam,Pakistan,South Africa,Batsman,ODI,"Kingsmead, Durban",86,90,95.56,0
+M1033,2019-12-12,Kagiso Rabada,South Africa,Pakistan,Bowler,ODI,"Kingsmead, Durban",5,13,38.46,1
+M1033,2019-12-12,Haris Rauf,Pakistan,South Africa,Bowler,ODI,"Kingsmead, Durban",6,9,66.67,2
+M1033,2019-12-12,Keshav Maharaj,South Africa,Pakistan,Bowler,ODI,"Kingsmead, Durban",14,30,46.67,4
+M1034,2019-12-21,Alzarri Joseph,West Indies,South Africa,Bowler,T20I,"Kingsmead, Durban",5,7,71.43,1
+M1034,2019-12-21,Rassie van der Dussen,South Africa,West Indies,Batsman,T20I,"Kingsmead, Durban",35,27,129.63,0
+M1034,2019-12-21,Akeal Hosein,West Indies,South Africa,Bowler,T20I,"Kingsmead, Durban",5,4,125.0,2
+M1034,2019-12-21,Aiden Markram,South Africa,West Indies,Batsman,T20I,"Kingsmead, Durban",13,15,86.67,0
+M1034,2019-12-21,Anrich Nortje,South Africa,West Indies,Bowler,T20I,"Kingsmead, Durban",4,3,133.33,5
+M1035,2019-12-27,Mujeeb Ur Rahman,Afghanistan,Pakistan,Bowler,T20I,Rawalpindi Cricket Stadium,9,10,90.0,1
+M1035,2019-12-27,Babar Azam,Pakistan,Afghanistan,Batsman,T20I,Rawalpindi Cricket Stadium,88,61,144.26,0
+M1035,2019-12-27,Saud Shakeel,Pakistan,Afghanistan,Batsman,T20I,Rawalpindi Cricket Stadium,61,41,148.78,0
+M1035,2019-12-27,Naseem Shah,Pakistan,Afghanistan,Bowler,T20I,Rawalpindi Cricket Stadium,5,4,125.0,2
+M1035,2019-12-27,Shaheen Afridi,Pakistan,Afghanistan,Bowler,T20I,Rawalpindi Cricket Stadium,1,1,100.0,3
+M1036,2020-01-01,Jason Holder,West Indies,South Africa,All-rounder,ODI,"SuperSport Park, Centurion",5,5,100.0,2
+M1036,2020-01-01,Kraigg Brathwaite,West Indies,South Africa,Batsman,ODI,"SuperSport Park, Centurion",37,41,90.24,0
+M1036,2020-01-01,Temba Bavuma,South Africa,West Indies,Batsman,ODI,"SuperSport Park, Centurion",68,67,101.49,0
+M1036,2020-01-01,Quinton de Kock,South Africa,West Indies,Wicket-keeper,ODI,"SuperSport Park, Centurion",6,6,100.0,0
+M1036,2020-01-01,Keshav Maharaj,South Africa,West Indies,Bowler,ODI,"SuperSport Park, Centurion",3,7,42.86,1
+M1037,2020-01-14,Akeal Hosein,West Indies,Afghanistan,Bowler,T20I,Sharjah Cricket Stadium,0,6,0.0,2
+M1037,2020-01-14,Rahmanullah Gurbaz,Afghanistan,West Indies,Wicket-keeper,T20I,Sharjah Cricket Stadium,0,6,0.0,0
+M1037,2020-01-14,Andre Russell,West Indies,Afghanistan,All-rounder,T20I,Sharjah Cricket Stadium,43,21,204.76,1
+M1037,2020-01-14,Jason Holder,West Indies,Afghanistan,All-rounder,T20I,Sharjah Cricket Stadium,34,29,117.24,0
+M1037,2020-01-14,Mohammad Nabi,Afghanistan,West Indies,All-rounder,T20I,Sharjah Cricket Stadium,9,9,100.0,0
+M1038,2020-01-20,Mohammad Nabi,Afghanistan,South Africa,All-rounder,ODI,"Wanderers Stadium, Johannesburg",10,8,125.0,1
+M1038,2020-01-20,Marco Jansen,South Africa,Afghanistan,All-rounder,ODI,"Wanderers Stadium, Johannesburg",26,28,92.86,2
+M1038,2020-01-20,Azmatullah Omarzai,Afghanistan,South Africa,All-rounder,ODI,"Wanderers Stadium, Johannesburg",1,1,100.0,0
+M1038,2020-01-20,Rahmanullah Gurbaz,Afghanistan,South Africa,Wicket-keeper,ODI,"Wanderers Stadium, Johannesburg",9,11,81.82,0
+M1038,2020-01-20,Fazalhaq Farooqi,Afghanistan,South Africa,Bowler,ODI,"Wanderers Stadium, Johannesburg",8,10,80.0,2
+M1039,2020-02-12,Temba Bavuma,South Africa,Pakistan,Batsman,Test,"National Stadium, Karachi",29,54,53.7,0
+M1039,2020-02-12,Keshav Maharaj,South Africa,Pakistan,Bowler,Test,"National Stadium, Karachi",18,96,18.75,7
+M1039,2020-02-12,Shadab Khan,Pakistan,South Africa,All-rounder,Test,"National Stadium, Karachi",13,19,68.42,0
+M1039,2020-02-12,Saud Shakeel,Pakistan,South Africa,Batsman,Test,"National Stadium, Karachi",47,84,55.95,0
+M1039,2020-02-12,Mohammad Rizwan,Pakistan,South Africa,Wicket-keeper,Test,"National Stadium, Karachi",141,225,62.67,0
+M1040,2020-02-13,Shimron Hetmyer,West Indies,India,Batsman,T20I,"Kensington Oval, Barbados",14,11,127.27,0
+M1040,2020-02-13,Hardik Pandya,India,West Indies,All-rounder,T20I,"Kensington Oval, Barbados",17,17,100.0,0
+M1040,2020-02-13,Andre Russell,West Indies,India,All-rounder,T20I,"Kensington Oval, Barbados",7,6,116.67,0
+M1040,2020-02-13,Kemar Roach,West Indies,India,Bowler,T20I,"Kensington Oval, Barbados",8,9,88.89,0
+M1040,2020-02-13,Kraigg Brathwaite,West Indies,India,Batsman,T20I,"Kensington Oval, Barbados",3,3,100.0,1
+M1041,2020-03-05,James Anderson,England,India,Bowler,ODI,"The Oval, London",5,12,41.67,0
+M1041,2020-03-05,Rishabh Pant,India,England,Wicket-keeper,ODI,"The Oval, London",0,7,0.0,0
+M1041,2020-03-05,Kuldeep Yadav,India,England,Bowler,ODI,"The Oval, London",8,13,61.54,1
+M1041,2020-03-05,Ben Duckett,England,India,Batsman,ODI,"The Oval, London",8,13,61.54,0
+M1041,2020-03-05,Zak Crawley,England,India,Batsman,ODI,"The Oval, London",9,9,100.0,0
+M1042,2020-03-06,Jos Buttler,England,Afghanistan,Wicket-keeper,T20I,Sharjah Cricket Stadium,50,38,131.58,0
+M1042,2020-03-06,Rahmanullah Gurbaz,Afghanistan,England,Wicket-keeper,T20I,Sharjah Cricket Stadium,26,20,130.0,0
+M1042,2020-03-06,Moeen Ali,England,Afghanistan,All-rounder,T20I,Sharjah Cricket Stadium,18,13,138.46,0
+M1042,2020-03-06,Gulbadin Naib,Afghanistan,England,All-rounder,T20I,Sharjah Cricket Stadium,16,17,94.12,0
+M1042,2020-03-06,Azmatullah Omarzai,Afghanistan,England,All-rounder,T20I,Sharjah Cricket Stadium,0,7,0.0,1
+M1043,2020-03-23,Fakhar Zaman,Pakistan,South Africa,Batsman,T20I,"SuperSport Park, Centurion",0,2,0.0,0
+M1043,2020-03-23,Naseem Shah,Pakistan,South Africa,Bowler,T20I,"SuperSport Park, Centurion",3,3,100.0,4
+M1043,2020-03-23,Kagiso Rabada,South Africa,Pakistan,Bowler,T20I,"SuperSport Park, Centurion",7,8,87.5,0
+M1043,2020-03-23,Imam-ul-Haq,Pakistan,South Africa,Batsman,T20I,"SuperSport Park, Centurion",18,11,163.64,0
+M1043,2020-03-23,David Miller,South Africa,Pakistan,Batsman,T20I,"SuperSport Park, Centurion",9,6,150.0,0
+M1044,2020-03-23,Heinrich Klaasen,South Africa,England,Wicket-keeper,T20I,"Edgbaston, Birmingham",17,16,106.25,0
+M1044,2020-03-23,Ben Stokes,England,South Africa,All-rounder,T20I,"Edgbaston, Birmingham",5,4,125.0,0
+M1044,2020-03-23,James Anderson,England,South Africa,Bowler,T20I,"Edgbaston, Birmingham",3,3,100.0,0
+M1044,2020-03-23,Moeen Ali,England,South Africa,All-rounder,T20I,"Edgbaston, Birmingham",0,8,0.0,0
+M1044,2020-03-23,Jos Buttler,England,South Africa,Wicket-keeper,T20I,"Edgbaston, Birmingham",3,2,150.0,0
+M1045,2020-04-18,Mitchell Santner,New Zealand,Bangladesh,All-rounder,ODI,Sylhet International Stadium,48,75,64.0,3
+M1045,2020-04-18,Najmul Hossain Shanto,Bangladesh,New Zealand,Batsman,ODI,Sylhet International Stadium,11,19,57.89,0
+M1045,2020-04-18,Taskin Ahmed,Bangladesh,New Zealand,Bowler,ODI,Sylhet International Stadium,2,8,25.0,2
+M1045,2020-04-18,Matt Henry,New Zealand,Bangladesh,Bowler,ODI,Sylhet International Stadium,15,27,55.56,1
+M1045,2020-04-18,Kane Williamson,New Zealand,Bangladesh,Batsman,ODI,Sylhet International Stadium,7,9,77.78,0
+M1046,2020-04-25,Jason Holder,West Indies,India,All-rounder,Test,"Kensington Oval, Barbados",0,1,0.0,0
+M1046,2020-04-25,Kraigg Brathwaite,West Indies,India,Batsman,Test,"Kensington Oval, Barbados",7,13,53.85,0
+M1046,2020-04-25,Alzarri Joseph,West Indies,India,Bowler,Test,"Kensington Oval, Barbados",6,28,21.43,2
+M1046,2020-04-25,Virat Kohli,India,West Indies,Batsman,Test,"Kensington Oval, Barbados",10,21,47.62,0
+M1046,2020-04-25,Jasprit Bumrah,India,West Indies,Bowler,Test,"Kensington Oval, Barbados",0,8,0.0,2
+M1047,2020-05-07,Rohit Sharma,India,New Zealand,Batsman,T20I,"Eden Gardens, Kolkata",29,15,193.33,0
+M1047,2020-05-07,KL Rahul,India,New Zealand,Wicket-keeper,T20I,"Eden Gardens, Kolkata",3,2,150.0,0
+M1047,2020-05-07,Glenn Phillips,New Zealand,India,All-rounder,T20I,"Eden Gardens, Kolkata",0,5,0.0,0
+M1047,2020-05-07,Hardik Pandya,India,New Zealand,All-rounder,T20I,"Eden Gardens, Kolkata",22,10,220.0,0
+M1047,2020-05-07,Ravindra Jadeja,India,New Zealand,All-rounder,T20I,"Eden Gardens, Kolkata",7,7,100.0,0
+M1048,2020-07-15,Dhananjaya de Silva,Sri Lanka,India,All-rounder,ODI,Pallekele International Stadium,61,65,93.85,2
+M1048,2020-07-15,Wanindu Hasaranga,Sri Lanka,India,All-rounder,ODI,Pallekele International Stadium,57,58,98.28,0
+M1048,2020-07-15,Kuldeep Yadav,India,Sri Lanka,Bowler,ODI,Pallekele International Stadium,4,7,57.14,1
+M1048,2020-07-15,Dushmantha Chameera,Sri Lanka,India,Bowler,ODI,Pallekele International Stadium,5,9,55.56,1
+M1048,2020-07-15,Kusal Mendis,Sri Lanka,India,Wicket-keeper,ODI,Pallekele International Stadium,14,25,56.0,0
+M1049,2020-07-19,Hashmatullah Shahidi,Afghanistan,England,Batsman,T20I,Sharjah Cricket Stadium,0,6,0.0,0
+M1049,2020-07-19,Naveen-ul-Haq,Afghanistan,England,Bowler,T20I,Sharjah Cricket Stadium,7,7,100.0,2
+M1049,2020-07-19,Rashid Khan,Afghanistan,England,Bowler,T20I,Sharjah Cricket Stadium,0,3,0.0,4
+M1049,2020-07-19,Fazalhaq Farooqi,Afghanistan,England,Bowler,T20I,Sharjah Cricket Stadium,5,5,100.0,1
+M1049,2020-07-19,Ben Duckett,England,Afghanistan,Batsman,T20I,Sharjah Cricket Stadium,6,4,150.0,0
+M1050,2020-07-27,Tim Southee,New Zealand,West Indies,Bowler,Test,"Eden Park, Auckland",4,13,30.77,2
+M1050,2020-07-27,Daryl Mitchell,New Zealand,West Indies,Batsman,Test,"Eden Park, Auckland",0,7,0.0,0
+M1050,2020-07-27,Nicholas Pooran,West Indies,New Zealand,Wicket-keeper,Test,"Eden Park, Auckland",1,2,50.0,0
+M1050,2020-07-27,Rachin Ravindra,New Zealand,West Indies,All-rounder,Test,"Eden Park, Auckland",0,1,0.0,1
+M1050,2020-07-27,Brandon King,West Indies,New Zealand,Batsman,Test,"Eden Park, Auckland",63,115,54.78,0
+M1051,2020-08-06,Kasun Rajitha,Sri Lanka,Bangladesh,Bowler,ODI,Sylhet International Stadium,11,12,91.67,0
+M1051,2020-08-06,Towhid Hridoy,Bangladesh,Sri Lanka,Batsman,ODI,Sylhet International Stadium,0,4,0.0,0
+M1051,2020-08-06,Pathum Nissanka,Sri Lanka,Bangladesh,Batsman,ODI,Sylhet International Stadium,26,28,92.86,0
+M1051,2020-08-06,Taijul Islam,Bangladesh,Sri Lanka,Bowler,ODI,Sylhet International Stadium,14,31,45.16,1
+M1051,2020-08-06,Charith Asalanka,Sri Lanka,Bangladesh,Batsman,ODI,Sylhet International Stadium,1,1,100.0,0
+M1052,2020-08-06,Dimuth Karunaratne,Sri Lanka,South Africa,Batsman,Test,"SuperSport Park, Centurion",5,9,55.56,2
+M1052,2020-08-06,Wanindu Hasaranga,Sri Lanka,South Africa,All-rounder,Test,"SuperSport Park, Centurion",38,55,69.09,1
+M1052,2020-08-06,Keshav Maharaj,South Africa,Sri Lanka,Bowler,Test,"SuperSport Park, Centurion",5,19,26.32,4
+M1052,2020-08-06,Marco Jansen,South Africa,Sri Lanka,All-rounder,Test,"SuperSport Park, Centurion",4,6,66.67,0
+M1052,2020-08-06,Heinrich Klaasen,South Africa,Sri Lanka,Wicket-keeper,Test,"SuperSport Park, Centurion",6,16,37.5,0
+M1053,2020-08-14,Virat Kohli,India,Afghanistan,Batsman,ODI,"Arun Jaitley Stadium, Delhi",3,5,60.0,1
+M1053,2020-08-14,Mujeeb Ur Rahman,Afghanistan,India,Bowler,ODI,"Arun Jaitley Stadium, Delhi",1,2,50.0,2
+M1053,2020-08-14,Hardik Pandya,India,Afghanistan,All-rounder,ODI,"Arun Jaitley Stadium, Delhi",5,7,71.43,0
+M1053,2020-08-14,Azmatullah Omarzai,Afghanistan,India,All-rounder,ODI,"Arun Jaitley Stadium, Delhi",12,13,92.31,1
+M1053,2020-08-14,Jasprit Bumrah,India,Afghanistan,Bowler,ODI,"Arun Jaitley Stadium, Delhi",1,1,100.0,0
+M1054,2020-09-02,Jos Buttler,England,Afghanistan,Wicket-keeper,ODI,"Edgbaston, Birmingham",0,3,0.0,0
+M1054,2020-09-02,Ben Duckett,England,Afghanistan,Batsman,ODI,"Edgbaston, Birmingham",71,77,92.21,0
+M1054,2020-09-02,Jonny Bairstow,England,Afghanistan,Wicket-keeper,ODI,"Edgbaston, Birmingham",25,27,92.59,0
+M1054,2020-09-02,Gulbadin Naib,Afghanistan,England,All-rounder,ODI,"Edgbaston, Birmingham",4,4,100.0,0
+M1054,2020-09-02,Joe Root,England,Afghanistan,Batsman,ODI,"Edgbaston, Birmingham",2,2,100.0,0
+M1055,2020-09-06,Dimuth Karunaratne,Sri Lanka,West Indies,Batsman,ODI,"Providence Stadium, Guyana",13,16,81.25,0
+M1055,2020-09-06,Kemar Roach,West Indies,Sri Lanka,Bowler,ODI,"Providence Stadium, Guyana",7,8,87.5,0
+M1055,2020-09-06,Dushmantha Chameera,Sri Lanka,West Indies,Bowler,ODI,"Providence Stadium, Guyana",19,44,43.18,2
+M1055,2020-09-06,Pathum Nissanka,Sri Lanka,West Indies,Batsman,ODI,"Providence Stadium, Guyana",0,8,0.0,0
+M1055,2020-09-06,Maheesh Theekshana,Sri Lanka,West Indies,Bowler,ODI,"Providence Stadium, Guyana",9,14,64.29,2
+M1056,2020-09-09,Mushfiqur Rahim,Bangladesh,England,Wicket-keeper,ODI,"The Oval, London",10,12,83.33,0
+M1056,2020-09-09,Ben Duckett,England,Bangladesh,Batsman,ODI,"The Oval, London",20,20,100.0,0
+M1056,2020-09-09,Jonny Bairstow,England,Bangladesh,Wicket-keeper,ODI,"The Oval, London",5,5,100.0,0
+M1056,2020-09-09,James Anderson,England,Bangladesh,Bowler,ODI,"The Oval, London",31,75,41.33,2
+M1056,2020-09-09,Joe Root,England,Bangladesh,Batsman,ODI,"The Oval, London",4,6,66.67,0
+M1057,2020-10-24,Mujeeb Ur Rahman,Afghanistan,Bangladesh,Bowler,T20I,Sharjah Cricket Stadium,0,7,0.0,2
+M1057,2020-10-24,Shoriful Islam,Bangladesh,Afghanistan,Bowler,T20I,Sharjah Cricket Stadium,2,2,100.0,0
+M1057,2020-10-24,Rahmanullah Gurbaz,Afghanistan,Bangladesh,Wicket-keeper,T20I,Sharjah Cricket Stadium,12,12,100.0,0
+M1057,2020-10-24,Towhid Hridoy,Bangladesh,Afghanistan,Batsman,T20I,Sharjah Cricket Stadium,11,9,122.22,0
+M1057,2020-10-24,Taijul Islam,Bangladesh,Afghanistan,Bowler,T20I,Sharjah Cricket Stadium,3,4,75.0,0
+M1058,2020-11-06,Rassie van der Dussen,South Africa,India,Batsman,T20I,"Narendra Modi Stadium, Ahmedabad",12,10,120.0,0
+M1058,2020-11-06,Hardik Pandya,India,South Africa,All-rounder,T20I,"Narendra Modi Stadium, Ahmedabad",18,11,163.64,2
+M1058,2020-11-06,Shubman Gill,India,South Africa,Batsman,T20I,"Narendra Modi Stadium, Ahmedabad",28,24,116.67,0
+M1058,2020-11-06,Rishabh Pant,India,South Africa,Wicket-keeper,T20I,"Narendra Modi Stadium, Ahmedabad",6,5,120.0,0
+M1058,2020-11-06,Temba Bavuma,South Africa,India,Batsman,T20I,"Narendra Modi Stadium, Ahmedabad",25,17,147.06,0
+M1059,2020-11-19,Daryl Mitchell,New Zealand,England,Batsman,ODI,"Eden Park, Auckland",29,30,96.67,0
+M1059,2020-11-19,Rachin Ravindra,New Zealand,England,All-rounder,ODI,"Eden Park, Auckland",19,20,95.0,0
+M1059,2020-11-19,Mark Wood,England,New Zealand,Bowler,ODI,"Eden Park, Auckland",9,13,69.23,4
+M1059,2020-11-19,Tom Latham,New Zealand,England,Wicket-keeper,ODI,"Eden Park, Auckland",53,47,112.77,0
+M1059,2020-11-19,Tim Southee,New Zealand,England,Bowler,ODI,"Eden Park, Auckland",4,5,80.0,1
+M1060,2020-11-26,Imam-ul-Haq,Pakistan,South Africa,Batsman,Test,Rawalpindi Cricket Stadium,55,141,39.01,1
+M1060,2020-11-26,Aiden Markram,South Africa,Pakistan,Batsman,Test,Rawalpindi Cricket Stadium,10,23,43.48,0
+M1060,2020-11-26,David Miller,South Africa,Pakistan,Batsman,Test,Rawalpindi Cricket Stadium,92,155,59.35,0
+M1060,2020-11-26,Saud Shakeel,Pakistan,South Africa,Batsman,Test,Rawalpindi Cricket Stadium,11,28,39.29,0
+M1060,2020-11-26,Mohammad Nawaz,Pakistan,South Africa,All-rounder,Test,Rawalpindi Cricket Stadium,26,43,60.47,0
+M1061,2020-12-02,KL Rahul,India,South Africa,Wicket-keeper,ODI,"Kingsmead, Durban",6,7,85.71,0
+M1061,2020-12-02,Mohammed Shami,India,South Africa,Bowler,ODI,"Kingsmead, Durban",3,4,75.0,1
+M1061,2020-12-02,Aiden Markram,South Africa,India,Batsman,ODI,"Kingsmead, Durban",30,55,54.55,0
+M1061,2020-12-02,Kuldeep Yadav,India,South Africa,Bowler,ODI,"Kingsmead, Durban",3,5,60.0,1
+M1061,2020-12-02,Jasprit Bumrah,India,South Africa,Bowler,ODI,"Kingsmead, Durban",14,24,58.33,1
+M1062,2020-12-06,Dhananjaya de Silva,Sri Lanka,New Zealand,All-rounder,T20I,"Seddon Park, Hamilton",3,2,150.0,1
+M1062,2020-12-06,Kusal Mendis,Sri Lanka,New Zealand,Wicket-keeper,T20I,"Seddon Park, Hamilton",20,14,142.86,0
+M1062,2020-12-06,Tom Latham,New Zealand,Sri Lanka,Wicket-keeper,T20I,"Seddon Park, Hamilton",3,2,150.0,0
+M1062,2020-12-06,Daryl Mitchell,New Zealand,Sri Lanka,Batsman,T20I,"Seddon Park, Hamilton",102,69,147.83,0
+M1062,2020-12-06,Angelo Mathews,Sri Lanka,New Zealand,All-rounder,T20I,"Seddon Park, Hamilton",58,52,111.54,2
+M1063,2020-12-10,Rahmanullah Gurbaz,Afghanistan,England,Wicket-keeper,T20I,"Edgbaston, Birmingham",25,26,96.15,0
+M1063,2020-12-10,Gulbadin Naib,Afghanistan,England,All-rounder,T20I,"Edgbaston, Birmingham",0,8,0.0,2
+M1063,2020-12-10,Azmatullah Omarzai,Afghanistan,England,All-rounder,T20I,"Edgbaston, Birmingham",33,22,150.0,0
+M1063,2020-12-10,Zak Crawley,England,Afghanistan,Batsman,T20I,"Edgbaston, Birmingham",32,28,114.29,0
+M1063,2020-12-10,Mohammad Nabi,Afghanistan,England,All-rounder,T20I,"Edgbaston, Birmingham",15,9,166.67,1
+M1064,2020-12-15,Dhananjaya de Silva,Sri Lanka,Afghanistan,All-rounder,Test,Sharjah Cricket Stadium,20,51,39.22,1
+M1064,2020-12-15,Hashmatullah Shahidi,Afghanistan,Sri Lanka,Batsman,Test,Sharjah Cricket Stadium,91,139,65.47,0
+M1064,2020-12-15,Kasun Rajitha,Sri Lanka,Afghanistan,Bowler,Test,Sharjah Cricket Stadium,8,12,66.67,1
+M1064,2020-12-15,Mujeeb Ur Rahman,Afghanistan,Sri Lanka,Bowler,Test,Sharjah Cricket Stadium,15,44,34.09,1
+M1064,2020-12-15,Gulbadin Naib,Afghanistan,Sri Lanka,All-rounder,Test,Sharjah Cricket Stadium,5,10,50.0,0
+M1065,2020-12-31,Fakhar Zaman,Pakistan,South Africa,Batsman,Test,Rawalpindi Cricket Stadium,142,210,67.62,0
+M1065,2020-12-31,Babar Azam,Pakistan,South Africa,Batsman,Test,Rawalpindi Cricket Stadium,58,110,52.73,0
+M1065,2020-12-31,Mohammad Nawaz,Pakistan,South Africa,All-rounder,Test,Rawalpindi Cricket Stadium,13,16,81.25,2
+M1065,2020-12-31,Rassie van der Dussen,South Africa,Pakistan,Batsman,Test,Rawalpindi Cricket Stadium,22,38,57.89,0
+M1065,2020-12-31,Marco Jansen,South Africa,Pakistan,All-rounder,Test,Rawalpindi Cricket Stadium,21,48,43.75,1
+M1066,2021-01-11,Rassie van der Dussen,South Africa,Pakistan,Batsman,Test,"SuperSport Park, Centurion",0,8,0.0,0
+M1066,2021-01-11,Shaheen Afridi,Pakistan,South Africa,Bowler,Test,"SuperSport Park, Centurion",4,11,36.36,3
+M1066,2021-01-11,Quinton de Kock,South Africa,Pakistan,Wicket-keeper,Test,"SuperSport Park, Centurion",44,72,61.11,0
+M1066,2021-01-11,David Miller,South Africa,Pakistan,Batsman,Test,"SuperSport Park, Centurion",34,132,25.76,0
+M1066,2021-01-11,Keshav Maharaj,South Africa,Pakistan,Bowler,Test,"SuperSport Park, Centurion",23,40,57.5,3
+M1067,2021-02-03,Travis Head,Australia,Pakistan,Batsman,ODI,Melbourne Cricket Ground,5,6,83.33,0
+M1067,2021-02-03,Mohammad Rizwan,Pakistan,Australia,Wicket-keeper,ODI,Melbourne Cricket Ground,0,7,0.0,0
+M1067,2021-02-03,Fakhar Zaman,Pakistan,Australia,Batsman,ODI,Melbourne Cricket Ground,17,28,60.71,0
+M1067,2021-02-03,Shaheen Afridi,Pakistan,Australia,Bowler,ODI,Melbourne Cricket Ground,2,3,66.67,3
+M1067,2021-02-03,Glenn Maxwell,Australia,Pakistan,All-rounder,ODI,Melbourne Cricket Ground,20,28,71.43,0
+M1068,2021-02-12,Trent Boult,New Zealand,South Africa,Bowler,ODI,"Kingsmead, Durban",7,14,50.0,0
+M1068,2021-02-12,Quinton de Kock,South Africa,New Zealand,Wicket-keeper,ODI,"Kingsmead, Durban",13,16,81.25,0
+M1068,2021-02-12,Aiden Markram,South Africa,New Zealand,Batsman,ODI,"Kingsmead, Durban",121,160,75.62,0
+M1068,2021-02-12,Tim Southee,New Zealand,South Africa,Bowler,ODI,"Kingsmead, Durban",2,3,66.67,3
+M1068,2021-02-12,Temba Bavuma,South Africa,New Zealand,Batsman,ODI,"Kingsmead, Durban",0,6,0.0,0
+M1069,2021-02-22,Imam-ul-Haq,Pakistan,Australia,Batsman,ODI,Multan Cricket Stadium,5,6,83.33,0
+M1069,2021-02-22,Mohammad Rizwan,Pakistan,Australia,Wicket-keeper,ODI,Multan Cricket Stadium,33,37,89.19,0
+M1069,2021-02-22,Shadab Khan,Pakistan,Australia,All-rounder,ODI,Multan Cricket Stadium,38,36,105.56,1
+M1069,2021-02-22,David Warner,Australia,Pakistan,Batsman,ODI,Multan Cricket Stadium,0,1,0.0,1
+M1069,2021-02-22,Josh Hazlewood,Australia,Pakistan,Bowler,ODI,Multan Cricket Stadium,3,6,50.0,2
+M1070,2021-02-24,Daryl Mitchell,New Zealand,Sri Lanka,Batsman,Test,Pallekele International Stadium,21,48,43.75,0
+M1070,2021-02-24,Angelo Mathews,Sri Lanka,New Zealand,All-rounder,Test,Pallekele International Stadium,72,131,54.96,1
+M1070,2021-02-24,Devon Conway,New Zealand,Sri Lanka,Batsman,Test,Pallekele International Stadium,58,111,52.25,0
+M1070,2021-02-24,Kasun Rajitha,Sri Lanka,New Zealand,Bowler,Test,Pallekele International Stadium,13,21,61.9,3
+M1070,2021-02-24,Matt Henry,New Zealand,Sri Lanka,Bowler,Test,Pallekele International Stadium,7,13,53.85,2
+M1071,2021-03-01,Shubman Gill,India,Afghanistan,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",189,160,118.12,0
+M1071,2021-03-01,KL Rahul,India,Afghanistan,Wicket-keeper,ODI,"Sheikh Zayed Stadium, Abu Dhabi",46,42,109.52,0
+M1071,2021-03-01,Ravindra Jadeja,India,Afghanistan,All-rounder,ODI,"Sheikh Zayed Stadium, Abu Dhabi",0,5,0.0,1
+M1071,2021-03-01,Rashid Khan,Afghanistan,India,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",3,3,100.0,2
+M1071,2021-03-01,Jasprit Bumrah,India,Afghanistan,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",5,7,71.43,3
+M1072,2021-03-07,Glenn Maxwell,Australia,Sri Lanka,All-rounder,Test,Pallekele International Stadium,14,21,66.67,0
+M1072,2021-03-07,Kusal Mendis,Sri Lanka,Australia,Wicket-keeper,Test,Pallekele International Stadium,44,80,55.0,0
+M1072,2021-03-07,Kasun Rajitha,Sri Lanka,Australia,Bowler,Test,Pallekele International Stadium,16,82,19.51,5
+M1072,2021-03-07,Mitchell Marsh,Australia,Sri Lanka,All-rounder,Test,Pallekele International Stadium,10,13,76.92,1
+M1072,2021-03-07,Josh Hazlewood,Australia,Sri Lanka,Bowler,Test,Pallekele International Stadium,5,33,15.15,3
+M1073,2021-04-03,Shadab Khan,Pakistan,India,All-rounder,T20I,Multan Cricket Stadium,67,58,115.52,0
+M1073,2021-04-03,Mohammad Nawaz,Pakistan,India,All-rounder,T20I,Multan Cricket Stadium,0,8,0.0,0
+M1073,2021-04-03,Shubman Gill,India,Pakistan,Batsman,T20I,Multan Cricket Stadium,26,18,144.44,0
+M1073,2021-04-03,Mohammed Shami,India,Pakistan,Bowler,T20I,Multan Cricket Stadium,11,15,73.33,4
+M1073,2021-04-03,Babar Azam,Pakistan,India,Batsman,T20I,Multan Cricket Stadium,100,66,151.52,0
+M1074,2021-05-31,Gulbadin Naib,Afghanistan,India,All-rounder,T20I,Sharjah Cricket Stadium,30,34,88.24,0
+M1074,2021-05-31,Jasprit Bumrah,India,Afghanistan,Bowler,T20I,Sharjah Cricket Stadium,11,10,110.0,0
+M1074,2021-05-31,Hashmatullah Shahidi,Afghanistan,India,Batsman,T20I,Sharjah Cricket Stadium,4,3,133.33,0
+M1074,2021-05-31,Mohammed Shami,India,Afghanistan,Bowler,T20I,Sharjah Cricket Stadium,7,8,87.5,2
+M1074,2021-05-31,Fazalhaq Farooqi,Afghanistan,India,Bowler,T20I,Sharjah Cricket Stadium,1,1,100.0,2
+M1075,2021-07-09,Temba Bavuma,South Africa,India,Batsman,T20I,"M. Chinnaswamy Stadium, Bengaluru",18,17,105.88,0
+M1075,2021-07-09,Virat Kohli,India,South Africa,Batsman,T20I,"M. Chinnaswamy Stadium, Bengaluru",58,38,152.63,0
+M1075,2021-07-09,Rishabh Pant,India,South Africa,Wicket-keeper,T20I,"M. Chinnaswamy Stadium, Bengaluru",0,8,0.0,0
+M1075,2021-07-09,Shubman Gill,India,South Africa,Batsman,T20I,"M. Chinnaswamy Stadium, Bengaluru",39,36,108.33,0
+M1075,2021-07-09,Mohammed Shami,India,South Africa,Bowler,T20I,"M. Chinnaswamy Stadium, Bengaluru",2,2,100.0,2
+M1076,2021-07-10,Taijul Islam,Bangladesh,Pakistan,Bowler,Test,Multan Cricket Stadium,2,7,28.57,3
+M1076,2021-07-10,Shoriful Islam,Bangladesh,Pakistan,Bowler,Test,Multan Cricket Stadium,0,2,0.0,2
+M1076,2021-07-10,Imam-ul-Haq,Pakistan,Bangladesh,Batsman,Test,Multan Cricket Stadium,53,114,46.49,0
+M1076,2021-07-10,Mohammad Rizwan,Pakistan,Bangladesh,Wicket-keeper,Test,Multan Cricket Stadium,37,62,59.68,0
+M1076,2021-07-10,Babar Azam,Pakistan,Bangladesh,Batsman,Test,Multan Cricket Stadium,69,140,49.29,0
+M1077,2021-08-27,Rachin Ravindra,New Zealand,Bangladesh,All-rounder,Test,Sylhet International Stadium,4,8,50.0,3
+M1077,2021-08-27,Towhid Hridoy,Bangladesh,New Zealand,Batsman,Test,Sylhet International Stadium,7,18,38.89,0
+M1077,2021-08-27,Matt Henry,New Zealand,Bangladesh,Bowler,Test,Sylhet International Stadium,8,18,44.44,4
+M1077,2021-08-27,Mushfiqur Rahim,Bangladesh,New Zealand,Wicket-keeper,Test,Sylhet International Stadium,3,6,50.0,0
+M1077,2021-08-27,Litton Das,Bangladesh,New Zealand,Wicket-keeper,Test,Sylhet International Stadium,30,74,40.54,0
+M1078,2021-09-06,Jasprit Bumrah,India,Afghanistan,Bowler,ODI,"Eden Gardens, Kolkata",3,5,60.0,1
+M1078,2021-09-06,Fazalhaq Farooqi,Afghanistan,India,Bowler,ODI,"Eden Gardens, Kolkata",0,6,0.0,1
+M1078,2021-09-06,Hardik Pandya,India,Afghanistan,All-rounder,ODI,"Eden Gardens, Kolkata",10,9,111.11,0
+M1078,2021-09-06,Ibrahim Zadran,Afghanistan,India,Batsman,ODI,"Eden Gardens, Kolkata",9,8,112.5,0
+M1078,2021-09-06,Shubman Gill,India,Afghanistan,Batsman,ODI,"Eden Gardens, Kolkata",16,16,100.0,0
+M1079,2021-09-22,KL Rahul,India,Pakistan,Wicket-keeper,ODI,Multan Cricket Stadium,50,48,104.17,0
+M1079,2021-09-22,Kuldeep Yadav,India,Pakistan,Bowler,ODI,Multan Cricket Stadium,0,8,0.0,2
+M1079,2021-09-22,Shadab Khan,Pakistan,India,All-rounder,ODI,Multan Cricket Stadium,0,8,0.0,0
+M1079,2021-09-22,Mohammad Nawaz,Pakistan,India,All-rounder,ODI,Multan Cricket Stadium,30,34,88.24,0
+M1079,2021-09-22,Haris Rauf,Pakistan,India,Bowler,ODI,Multan Cricket Stadium,11,15,73.33,2
+M1080,2021-10-13,Aiden Markram,South Africa,Pakistan,Batsman,Test,"Gaddafi Stadium, Lahore",30,64,46.88,0
+M1080,2021-10-13,Shadab Khan,Pakistan,South Africa,All-rounder,Test,"Gaddafi Stadium, Lahore",7,10,70.0,2
+M1080,2021-10-13,Kagiso Rabada,South Africa,Pakistan,Bowler,Test,"Gaddafi Stadium, Lahore",14,39,35.9,2
+M1080,2021-10-13,Anrich Nortje,South Africa,Pakistan,Bowler,Test,"Gaddafi Stadium, Lahore",6,37,16.22,0
+M1080,2021-10-13,Babar Azam,Pakistan,South Africa,Batsman,Test,"Gaddafi Stadium, Lahore",20,42,47.62,0
+M1081,2021-10-22,Kagiso Rabada,South Africa,England,Bowler,Test,"Lord's, London",17,83,20.48,0
+M1081,2021-10-22,Zak Crawley,England,South Africa,Batsman,Test,"Lord's, London",6,12,50.0,1
+M1081,2021-10-22,Jonny Bairstow,England,South Africa,Wicket-keeper,Test,"Lord's, London",159,243,65.43,0
+M1081,2021-10-22,Harry Brook,England,South Africa,Batsman,Test,"Lord's, London",6,12,50.0,1
+M1081,2021-10-22,David Miller,South Africa,England,Batsman,Test,"Lord's, London",30,46,65.22,0
+M1082,2021-10-24,Azmatullah Omarzai,Afghanistan,Pakistan,All-rounder,T20I,Multan Cricket Stadium,27,20,135.0,0
+M1082,2021-10-24,Fazalhaq Farooqi,Afghanistan,Pakistan,Bowler,T20I,Multan Cricket Stadium,4,3,133.33,0
+M1082,2021-10-24,Gulbadin Naib,Afghanistan,Pakistan,All-rounder,T20I,Multan Cricket Stadium,6,6,100.0,1
+M1082,2021-10-24,Mohammad Nabi,Afghanistan,Pakistan,All-rounder,T20I,Multan Cricket Stadium,1,1,100.0,0
+M1082,2021-10-24,Mohammad Nawaz,Pakistan,Afghanistan,All-rounder,T20I,Multan Cricket Stadium,22,18,122.22,0
+M1083,2021-10-29,Jos Buttler,England,West Indies,Wicket-keeper,T20I,"Providence Stadium, Guyana",4,3,133.33,0
+M1083,2021-10-29,Akeal Hosein,West Indies,England,Bowler,T20I,"Providence Stadium, Guyana",8,8,100.0,0
+M1083,2021-10-29,Shimron Hetmyer,West Indies,England,Batsman,T20I,"Providence Stadium, Guyana",19,15,126.67,0
+M1083,2021-10-29,Moeen Ali,England,West Indies,All-rounder,T20I,"Providence Stadium, Guyana",12,10,120.0,2
+M1083,2021-10-29,Joe Root,England,West Indies,Batsman,T20I,"Providence Stadium, Guyana",19,12,158.33,0
+M1084,2021-11-15,Marnus Labuschagne,Australia,South Africa,Batsman,ODI,Melbourne Cricket Ground,95,143,66.43,0
+M1084,2021-11-15,Kagiso Rabada,South Africa,Australia,Bowler,ODI,Melbourne Cricket Ground,37,144,25.69,1
+M1084,2021-11-15,David Miller,South Africa,Australia,Batsman,ODI,Melbourne Cricket Ground,122,117,104.27,0
+M1084,2021-11-15,Glenn Maxwell,Australia,South Africa,All-rounder,ODI,Melbourne Cricket Ground,2,2,100.0,0
+M1084,2021-11-15,Quinton de Kock,South Africa,Australia,Wicket-keeper,ODI,Melbourne Cricket Ground,27,32,84.38,0
+M1085,2021-11-23,Mitchell Starc,Australia,England,Bowler,Test,"Old Trafford, Manchester",0,5,0.0,2
+M1085,2021-11-23,Alex Carey,Australia,England,Wicket-keeper,Test,"Old Trafford, Manchester",17,30,56.67,0
+M1085,2021-11-23,Moeen Ali,England,Australia,All-rounder,Test,"Old Trafford, Manchester",31,45,68.89,0
+M1085,2021-11-23,Marnus Labuschagne,Australia,England,Batsman,Test,"Old Trafford, Manchester",25,94,26.6,0
+M1085,2021-11-23,Glenn Maxwell,Australia,England,All-rounder,Test,"Old Trafford, Manchester",18,23,78.26,1
+M1086,2021-11-30,Shakib Al Hasan,Bangladesh,New Zealand,All-rounder,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",7,8,87.5,0
+M1086,2021-11-30,Taskin Ahmed,Bangladesh,New Zealand,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",4,6,66.67,4
+M1086,2021-11-30,Shoriful Islam,Bangladesh,New Zealand,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",25,35,71.43,2
+M1086,2021-11-30,Mustafizur Rahman,Bangladesh,New Zealand,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",23,25,92.0,1
+M1086,2021-11-30,Matt Henry,New Zealand,Bangladesh,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",39,75,52.0,0
+M1087,2021-12-04,Najmul Hossain Shanto,Bangladesh,Australia,Batsman,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",124,254,48.82,0
+M1087,2021-12-04,Glenn Maxwell,Australia,Bangladesh,All-rounder,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",44,69,63.77,0
+M1087,2021-12-04,Travis Head,Australia,Bangladesh,Batsman,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",17,27,62.96,0
+M1087,2021-12-04,Mushfiqur Rahim,Bangladesh,Australia,Wicket-keeper,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",53,183,28.96,0
+M1087,2021-12-04,Shakib Al Hasan,Bangladesh,Australia,All-rounder,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",74,163,45.4,1
+M1088,2022-01-23,David Warner,Australia,Afghanistan,Batsman,ODI,Sharjah Cricket Stadium,27,41,65.85,0
+M1088,2022-01-23,Alex Carey,Australia,Afghanistan,Wicket-keeper,ODI,Sharjah Cricket Stadium,40,45,88.89,0
+M1088,2022-01-23,Rashid Khan,Afghanistan,Australia,Bowler,ODI,Sharjah Cricket Stadium,4,6,66.67,0
+M1088,2022-01-23,Mitchell Marsh,Australia,Afghanistan,All-rounder,ODI,Sharjah Cricket Stadium,23,23,100.0,0
+M1088,2022-01-23,Josh Hazlewood,Australia,Afghanistan,Bowler,ODI,Sharjah Cricket Stadium,20,41,48.78,1
+M1089,2022-01-27,Dushmantha Chameera,Sri Lanka,South Africa,Bowler,ODI,"R. Premadasa Stadium, Colombo",4,6,66.67,1
+M1089,2022-01-27,David Miller,South Africa,Sri Lanka,Batsman,ODI,"R. Premadasa Stadium, Colombo",25,26,96.15,1
+M1089,2022-01-27,Aiden Markram,South Africa,Sri Lanka,Batsman,ODI,"R. Premadasa Stadium, Colombo",37,36,102.78,0
+M1089,2022-01-27,Dhananjaya de Silva,Sri Lanka,South Africa,All-rounder,ODI,"R. Premadasa Stadium, Colombo",16,23,69.57,0
+M1089,2022-01-27,Dimuth Karunaratne,Sri Lanka,South Africa,Batsman,ODI,"R. Premadasa Stadium, Colombo",5,6,83.33,0
+M1090,2022-02-14,Rachin Ravindra,New Zealand,Pakistan,All-rounder,T20I,Multan Cricket Stadium,40,24,166.67,0
+M1090,2022-02-14,Kane Williamson,New Zealand,Pakistan,Batsman,T20I,Multan Cricket Stadium,0,3,0.0,0
+M1090,2022-02-14,Tim Southee,New Zealand,Pakistan,Bowler,T20I,Multan Cricket Stadium,7,8,87.5,2
+M1090,2022-02-14,Mohammad Rizwan,Pakistan,New Zealand,Wicket-keeper,T20I,Multan Cricket Stadium,39,38,102.63,0
+M1090,2022-02-14,Babar Azam,Pakistan,New Zealand,Batsman,T20I,Multan Cricket Stadium,35,19,184.21,0
+M1091,2022-02-25,Mitchell Starc,Australia,West Indies,Bowler,ODI,Melbourne Cricket Ground,0,1,0.0,1
+M1091,2022-02-25,Glenn Maxwell,Australia,West Indies,All-rounder,ODI,Melbourne Cricket Ground,26,26,100.0,3
+M1091,2022-02-25,Jason Holder,West Indies,Australia,All-rounder,ODI,Melbourne Cricket Ground,0,2,0.0,0
+M1091,2022-02-25,Akeal Hosein,West Indies,Australia,Bowler,ODI,Melbourne Cricket Ground,16,16,100.0,0
+M1091,2022-02-25,Brandon King,West Indies,Australia,Batsman,ODI,Melbourne Cricket Ground,9,10,90.0,0
+M1092,2022-03-17,Shubman Gill,India,West Indies,Batsman,T20I,"Providence Stadium, Guyana",28,19,147.37,0
+M1092,2022-03-17,KL Rahul,India,West Indies,Wicket-keeper,T20I,"Providence Stadium, Guyana",6,5,120.0,0
+M1092,2022-03-17,Andre Russell,West Indies,India,All-rounder,T20I,"Providence Stadium, Guyana",4,3,133.33,0
+M1092,2022-03-17,Jasprit Bumrah,India,West Indies,Bowler,T20I,"Providence Stadium, Guyana",1,1,100.0,1
+M1092,2022-03-17,Akeal Hosein,West Indies,India,Bowler,T20I,"Providence Stadium, Guyana",10,8,125.0,3
+M1093,2022-04-18,Kane Williamson,New Zealand,Sri Lanka,Batsman,ODI,"R. Premadasa Stadium, Colombo",11,11,100.0,0
+M1093,2022-04-18,Dimuth Karunaratne,Sri Lanka,New Zealand,Batsman,ODI,"R. Premadasa Stadium, Colombo",10,16,62.5,0
+M1093,2022-04-18,Angelo Mathews,Sri Lanka,New Zealand,All-rounder,ODI,"R. Premadasa Stadium, Colombo",21,23,91.3,2
+M1093,2022-04-18,Glenn Phillips,New Zealand,Sri Lanka,All-rounder,ODI,"R. Premadasa Stadium, Colombo",10,9,111.11,1
+M1093,2022-04-18,Daryl Mitchell,New Zealand,Sri Lanka,Batsman,ODI,"R. Premadasa Stadium, Colombo",15,16,93.75,0
+M1094,2022-04-29,Najmul Hossain Shanto,Bangladesh,Australia,Batsman,ODI,"The Gabba, Brisbane",56,87,64.37,0
+M1094,2022-04-29,Steve Smith,Australia,Bangladesh,Batsman,ODI,"The Gabba, Brisbane",81,90,90.0,0
+M1094,2022-04-29,Mehidy Hasan Miraz,Bangladesh,Australia,All-rounder,ODI,"The Gabba, Brisbane",26,34,76.47,0
+M1094,2022-04-29,Shakib Al Hasan,Bangladesh,Australia,All-rounder,ODI,"The Gabba, Brisbane",2,3,66.67,0
+M1094,2022-04-29,Mitchell Marsh,Australia,Bangladesh,All-rounder,ODI,"The Gabba, Brisbane",3,4,75.0,1
+M1095,2022-05-14,Haris Rauf,Pakistan,New Zealand,Bowler,Test,"Hagley Oval, Christchurch",9,20,45.0,7
+M1095,2022-05-14,Devon Conway,New Zealand,Pakistan,Batsman,Test,"Hagley Oval, Christchurch",20,45,44.44,0
+M1095,2022-05-14,Mitchell Santner,New Zealand,Pakistan,All-rounder,Test,"Hagley Oval, Christchurch",14,34,41.18,1
+M1095,2022-05-14,Trent Boult,New Zealand,Pakistan,Bowler,Test,"Hagley Oval, Christchurch",9,23,39.13,5
+M1095,2022-05-14,Shaheen Afridi,Pakistan,New Zealand,Bowler,Test,"Hagley Oval, Christchurch",0,1,0.0,4
+M1096,2022-05-28,Shakib Al Hasan,Bangladesh,Pakistan,All-rounder,ODI,Multan Cricket Stadium,10,11,90.91,0
+M1096,2022-05-28,Mustafizur Rahman,Bangladesh,Pakistan,Bowler,ODI,Multan Cricket Stadium,10,13,76.92,0
+M1096,2022-05-28,Babar Azam,Pakistan,Bangladesh,Batsman,ODI,Multan Cricket Stadium,22,22,100.0,0
+M1096,2022-05-28,Mohammad Nawaz,Pakistan,Bangladesh,All-rounder,ODI,Multan Cricket Stadium,44,43,102.33,1
+M1096,2022-05-28,Saud Shakeel,Pakistan,Bangladesh,Batsman,ODI,Multan Cricket Stadium,13,13,100.0,0
+M1097,2022-06-01,Travis Head,Australia,Bangladesh,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",55,61,90.16,0
+M1097,2022-06-01,Towhid Hridoy,Bangladesh,Australia,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",33,23,143.48,0
+M1097,2022-06-01,Pat Cummins,Australia,Bangladesh,Bowler,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1,100.0,1
+M1097,2022-06-01,Marnus Labuschagne,Australia,Bangladesh,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",24,19,126.32,0
+M1097,2022-06-01,David Warner,Australia,Bangladesh,Batsman,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1,100.0,0
+M1098,2022-06-06,Shimron Hetmyer,West Indies,England,Batsman,T20I,"Kensington Oval, Barbados",29,21,138.1,0
+M1098,2022-06-06,Kemar Roach,West Indies,England,Bowler,T20I,"Kensington Oval, Barbados",1,4,25.0,1
+M1098,2022-06-06,Nicholas Pooran,West Indies,England,Wicket-keeper,T20I,"Kensington Oval, Barbados",3,2,150.0,0
+M1098,2022-06-06,Joe Root,England,West Indies,Batsman,T20I,"Kensington Oval, Barbados",23,15,153.33,0
+M1098,2022-06-06,Jason Holder,West Indies,England,All-rounder,T20I,"Kensington Oval, Barbados",9,6,150.0,0
+M1099,2022-06-21,Mujeeb Ur Rahman,Afghanistan,West Indies,Bowler,T20I,"Sabina Park, Jamaica",0,6,0.0,2
+M1099,2022-06-21,Akeal Hosein,West Indies,Afghanistan,Bowler,T20I,"Sabina Park, Jamaica",19,19,100.0,0
+M1099,2022-06-21,Brandon King,West Indies,Afghanistan,Batsman,T20I,"Sabina Park, Jamaica",10,8,125.0,0
+M1099,2022-06-21,Rahmanullah Gurbaz,Afghanistan,West Indies,Wicket-keeper,T20I,"Sabina Park, Jamaica",5,3,166.67,0
+M1099,2022-06-21,Ibrahim Zadran,Afghanistan,West Indies,Batsman,T20I,"Sabina Park, Jamaica",5,6,83.33,0
+M1100,2022-06-25,Mustafizur Rahman,Bangladesh,Australia,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",0,6,0.0,0
+M1100,2022-06-25,Steve Smith,Australia,Bangladesh,Batsman,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",2,4,50.0,0
+M1100,2022-06-25,Mushfiqur Rahim,Bangladesh,Australia,Wicket-keeper,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",12,13,92.31,0
+M1100,2022-06-25,Josh Hazlewood,Australia,Bangladesh,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",13,15,86.67,0
+M1100,2022-06-25,David Warner,Australia,Bangladesh,Batsman,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",84,61,137.7,0
+M1101,2022-07-07,Keshav Maharaj,South Africa,Sri Lanka,Bowler,T20I,Galle International Stadium,2,3,66.67,0
+M1101,2022-07-07,Maheesh Theekshana,Sri Lanka,South Africa,Bowler,T20I,Galle International Stadium,3,2,150.0,0
+M1101,2022-07-07,Quinton de Kock,South Africa,Sri Lanka,Wicket-keeper,T20I,Galle International Stadium,16,9,177.78,0
+M1101,2022-07-07,Kasun Rajitha,Sri Lanka,South Africa,Bowler,T20I,Galle International Stadium,1,1,100.0,0
+M1101,2022-07-07,Angelo Mathews,Sri Lanka,South Africa,All-rounder,T20I,Galle International Stadium,29,18,161.11,0
+M1102,2022-07-14,Shai Hope,West Indies,Bangladesh,Wicket-keeper,Test,"Queen's Park Oval, Trinidad",24,64,37.5,0
+M1102,2022-07-14,Najmul Hossain Shanto,Bangladesh,West Indies,Batsman,Test,"Queen's Park Oval, Trinidad",38,56,67.86,0
+M1102,2022-07-14,Shimron Hetmyer,West Indies,Bangladesh,Batsman,Test,"Queen's Park Oval, Trinidad",64,132,48.48,0
+M1102,2022-07-14,Towhid Hridoy,Bangladesh,West Indies,Batsman,Test,"Queen's Park Oval, Trinidad",3,11,27.27,0
+M1102,2022-07-14,Brandon King,West Indies,Bangladesh,Batsman,Test,"Queen's Park Oval, Trinidad",32,51,62.75,1
+M1103,2022-07-31,Azmatullah Omarzai,Afghanistan,Bangladesh,All-rounder,ODI,"Sheikh Zayed Stadium, Abu Dhabi",12,16,75.0,0
+M1103,2022-07-31,Litton Das,Bangladesh,Afghanistan,Wicket-keeper,ODI,"Sheikh Zayed Stadium, Abu Dhabi",90,83,108.43,0
+M1103,2022-07-31,Mushfiqur Rahim,Bangladesh,Afghanistan,Wicket-keeper,ODI,"Sheikh Zayed Stadium, Abu Dhabi",0,3,0.0,0
+M1103,2022-07-31,Mujeeb Ur Rahman,Afghanistan,Bangladesh,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",3,4,75.0,2
+M1103,2022-07-31,Hashmatullah Shahidi,Afghanistan,Bangladesh,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",41,59,69.49,0
+M1104,2022-08-01,Kuldeep Yadav,India,New Zealand,Bowler,T20I,"Narendra Modi Stadium, Ahmedabad",4,4,100.0,0
+M1104,2022-08-01,Tim Southee,New Zealand,India,Bowler,T20I,"Narendra Modi Stadium, Ahmedabad",7,7,100.0,0
+M1104,2022-08-01,Mohammed Shami,India,New Zealand,Bowler,T20I,"Narendra Modi Stadium, Ahmedabad",0,4,0.0,3
+M1104,2022-08-01,Rishabh Pant,India,New Zealand,Wicket-keeper,T20I,"Narendra Modi Stadium, Ahmedabad",17,17,100.0,0
+M1104,2022-08-01,Virat Kohli,India,New Zealand,Batsman,T20I,"Narendra Modi Stadium, Ahmedabad",13,12,108.33,0
+M1105,2022-08-13,Ben Stokes,England,Pakistan,All-rounder,T20I,"Old Trafford, Manchester",4,3,133.33,0
+M1105,2022-08-13,Shadab Khan,Pakistan,England,All-rounder,T20I,"Old Trafford, Manchester",11,7,157.14,1
+M1105,2022-08-13,Mohammad Nawaz,Pakistan,England,All-rounder,T20I,"Old Trafford, Manchester",0,6,0.0,0
+M1105,2022-08-13,Imam-ul-Haq,Pakistan,England,Batsman,T20I,"Old Trafford, Manchester",60,39,153.85,0
+M1105,2022-08-13,Zak Crawley,England,Pakistan,Batsman,T20I,"Old Trafford, Manchester",42,27,155.56,0
+M1106,2022-08-14,Brandon King,West Indies,New Zealand,Batsman,Test,"Eden Park, Auckland",39,108,36.11,0
+M1106,2022-08-14,Devon Conway,New Zealand,West Indies,Batsman,Test,"Eden Park, Auckland",35,63,55.56,0
+M1106,2022-08-14,Glenn Phillips,New Zealand,West Indies,All-rounder,Test,"Eden Park, Auckland",24,50,48.0,2
+M1106,2022-08-14,Akeal Hosein,West Indies,New Zealand,Bowler,Test,"Eden Park, Auckland",4,12,33.33,2
+M1106,2022-08-14,Matt Henry,New Zealand,West Indies,Bowler,Test,"Eden Park, Auckland",23,47,48.94,1
+M1107,2022-08-24,Towhid Hridoy,Bangladesh,South Africa,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",0,1,0.0,0
+M1107,2022-08-24,Aiden Markram,South Africa,Bangladesh,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",69,92,75.0,0
+M1107,2022-08-24,Marco Jansen,South Africa,Bangladesh,All-rounder,ODI,"Shere Bangla National Stadium, Dhaka",23,30,76.67,4
+M1107,2022-08-24,David Miller,South Africa,Bangladesh,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",47,43,109.3,0
+M1107,2022-08-24,Taijul Islam,Bangladesh,South Africa,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",4,7,57.14,3
+M1108,2022-09-30,Rassie van der Dussen,South Africa,Pakistan,Batsman,T20I,"SuperSport Park, Centurion",53,31,170.97,0
+M1108,2022-09-30,Fakhar Zaman,Pakistan,South Africa,Batsman,T20I,"SuperSport Park, Centurion",23,15,153.33,0
+M1108,2022-09-30,Aiden Markram,South Africa,Pakistan,Batsman,T20I,"SuperSport Park, Centurion",15,14,107.14,0
+M1108,2022-09-30,Temba Bavuma,South Africa,Pakistan,Batsman,T20I,"SuperSport Park, Centurion",30,21,142.86,0
+M1108,2022-09-30,Mohammad Rizwan,Pakistan,South Africa,Wicket-keeper,T20I,"SuperSport Park, Centurion",18,20,90.0,0
+M1109,2022-10-29,Jason Holder,West Indies,New Zealand,All-rounder,ODI,"Seddon Park, Hamilton",2,3,66.67,0
+M1109,2022-10-29,Glenn Phillips,New Zealand,West Indies,All-rounder,ODI,"Seddon Park, Hamilton",19,19,100.0,3
+M1109,2022-10-29,Kane Williamson,New Zealand,West Indies,Batsman,ODI,"Seddon Park, Hamilton",47,42,111.9,0
+M1109,2022-10-29,Nicholas Pooran,West Indies,New Zealand,Wicket-keeper,ODI,"Seddon Park, Hamilton",0,2,0.0,0
+M1109,2022-10-29,Tom Latham,New Zealand,West Indies,Wicket-keeper,ODI,"Seddon Park, Hamilton",9,13,69.23,0
+M1110,2022-11-08,Marnus Labuschagne,Australia,Afghanistan,Batsman,ODI,"The Gabba, Brisbane",24,24,100.0,0
+M1110,2022-11-08,Mitchell Starc,Australia,Afghanistan,Bowler,ODI,"The Gabba, Brisbane",10,16,62.5,0
+M1110,2022-11-08,Rashid Khan,Afghanistan,Australia,Bowler,ODI,"The Gabba, Brisbane",1,1,100.0,0
+M1110,2022-11-08,Mitchell Marsh,Australia,Afghanistan,All-rounder,ODI,"The Gabba, Brisbane",19,17,111.76,1
+M1110,2022-11-08,David Warner,Australia,Afghanistan,Batsman,ODI,"The Gabba, Brisbane",39,42,92.86,0
+M1111,2022-11-23,Kuldeep Yadav,India,Australia,Bowler,T20I,Perth Stadium,1,1,100.0,1
+M1111,2022-11-23,Jasprit Bumrah,India,Australia,Bowler,T20I,Perth Stadium,1,1,100.0,1
+M1111,2022-11-23,David Warner,Australia,India,Batsman,T20I,Perth Stadium,52,30,173.33,0
+M1111,2022-11-23,Josh Hazlewood,Australia,India,Bowler,T20I,Perth Stadium,2,2,100.0,3
+M1111,2022-11-23,Marnus Labuschagne,Australia,India,Batsman,T20I,Perth Stadium,35,29,120.69,0
+M1112,2022-11-28,Wanindu Hasaranga,Sri Lanka,South Africa,All-rounder,ODI,Galle International Stadium,32,30,106.67,0
+M1112,2022-11-28,Dushmantha Chameera,Sri Lanka,South Africa,Bowler,ODI,Galle International Stadium,10,12,83.33,2
+M1112,2022-11-28,Aiden Markram,South Africa,Sri Lanka,Batsman,ODI,Galle International Stadium,0,5,0.0,0
+M1112,2022-11-28,Maheesh Theekshana,Sri Lanka,South Africa,Bowler,ODI,Galle International Stadium,3,3,100.0,0
+M1112,2022-11-28,Quinton de Kock,South Africa,Sri Lanka,Wicket-keeper,ODI,Galle International Stadium,82,79,103.8,0
+M1113,2022-12-02,Glenn Phillips,New Zealand,Bangladesh,All-rounder,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",44,87,50.57,2
+M1113,2022-12-02,Daryl Mitchell,New Zealand,Bangladesh,Batsman,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",30,53,56.6,0
+M1113,2022-12-02,Mustafizur Rahman,Bangladesh,New Zealand,Bowler,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",3,6,50.0,6
+M1113,2022-12-02,Tom Latham,New Zealand,Bangladesh,Wicket-keeper,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",18,36,50.0,0
+M1113,2022-12-02,Towhid Hridoy,Bangladesh,New Zealand,Batsman,Test,"Zahur Ahmed Chowdhury Stadium, Chattogram",30,78,38.46,0
+M1114,2022-12-27,Imam-ul-Haq,Pakistan,Australia,Batsman,Test,Sydney Cricket Ground,48,100,48.0,0
+M1114,2022-12-27,Fakhar Zaman,Pakistan,Australia,Batsman,Test,Sydney Cricket Ground,24,32,75.0,0
+M1114,2022-12-27,Babar Azam,Pakistan,Australia,Batsman,Test,Sydney Cricket Ground,38,61,62.3,0
+M1114,2022-12-27,Shaheen Afridi,Pakistan,Australia,Bowler,Test,Sydney Cricket Ground,1,3,33.33,2
+M1114,2022-12-27,David Warner,Australia,Pakistan,Batsman,Test,Sydney Cricket Ground,20,53,37.74,1
+M1115,2023-01-04,Hardik Pandya,India,Australia,All-rounder,T20I,Melbourne Cricket Ground,13,9,144.44,1
+M1115,2023-01-04,Ravindra Jadeja,India,Australia,All-rounder,T20I,Melbourne Cricket Ground,1,1,100.0,0
+M1115,2023-01-04,Travis Head,Australia,India,Batsman,T20I,Melbourne Cricket Ground,2,2,100.0,0
+M1115,2023-01-04,Mitchell Starc,Australia,India,Bowler,T20I,Melbourne Cricket Ground,0,8,0.0,0
+M1115,2023-01-04,Mitchell Marsh,Australia,India,All-rounder,T20I,Melbourne Cricket Ground,8,7,114.29,1
+M1116,2023-01-08,Mohammad Nabi,Afghanistan,India,All-rounder,Test,Sharjah Cricket Stadium,19,30,63.33,0
+M1116,2023-01-08,Ibrahim Zadran,Afghanistan,India,Batsman,Test,Sharjah Cricket Stadium,0,4,0.0,0
+M1116,2023-01-08,Rahmanullah Gurbaz,Afghanistan,India,Wicket-keeper,Test,Sharjah Cricket Stadium,4,11,36.36,0
+M1116,2023-01-08,Shubman Gill,India,Afghanistan,Batsman,Test,Sharjah Cricket Stadium,237,480,49.38,0
+M1116,2023-01-08,Kuldeep Yadav,India,Afghanistan,Bowler,Test,Sharjah Cricket Stadium,3,7,42.86,2
+M1117,2023-01-10,Saud Shakeel,Pakistan,South Africa,Batsman,ODI,Multan Cricket Stadium,2,3,66.67,0
+M1117,2023-01-10,Temba Bavuma,South Africa,Pakistan,Batsman,ODI,Multan Cricket Stadium,40,42,95.24,0
+M1117,2023-01-10,Shadab Khan,Pakistan,South Africa,All-rounder,ODI,Multan Cricket Stadium,34,29,117.24,1
+M1117,2023-01-10,Haris Rauf,Pakistan,South Africa,Bowler,ODI,Multan Cricket Stadium,7,8,87.5,4
+M1117,2023-01-10,Anrich Nortje,South Africa,Pakistan,Bowler,ODI,Multan Cricket Stadium,33,56,58.93,1
+M1118,2023-01-14,Rohit Sharma,India,Bangladesh,Batsman,T20I,"Eden Gardens, Kolkata",52,35,148.57,1
+M1118,2023-01-14,Ravindra Jadeja,India,Bangladesh,All-rounder,T20I,"Eden Gardens, Kolkata",3,2,150.0,1
+M1118,2023-01-14,Mustafizur Rahman,Bangladesh,India,Bowler,T20I,"Eden Gardens, Kolkata",4,5,80.0,0
+M1118,2023-01-14,Shakib Al Hasan,Bangladesh,India,All-rounder,T20I,"Eden Gardens, Kolkata",9,6,150.0,0
+M1118,2023-01-14,Towhid Hridoy,Bangladesh,India,Batsman,T20I,"Eden Gardens, Kolkata",9,8,112.5,0
+M1119,2023-01-26,David Warner,Australia,Pakistan,Batsman,T20I,"Gaddafi Stadium, Lahore",14,9,155.56,0
+M1119,2023-01-26,Alex Carey,Australia,Pakistan,Wicket-keeper,T20I,"Gaddafi Stadium, Lahore",13,13,100.0,0
+M1119,2023-01-26,Imam-ul-Haq,Pakistan,Australia,Batsman,T20I,"Gaddafi Stadium, Lahore",41,21,195.24,0
+M1119,2023-01-26,Naseem Shah,Pakistan,Australia,Bowler,T20I,"Gaddafi Stadium, Lahore",2,3,66.67,2
+M1119,2023-01-26,Haris Rauf,Pakistan,Australia,Bowler,T20I,"Gaddafi Stadium, Lahore",17,17,100.0,3
+M1120,2023-02-02,Saud Shakeel,Pakistan,New Zealand,Batsman,ODI,Rawalpindi Cricket Stadium,5,5,100.0,0
+M1120,2023-02-02,Haris Rauf,Pakistan,New Zealand,Bowler,ODI,Rawalpindi Cricket Stadium,0,7,0.0,5
+M1120,2023-02-02,Tom Latham,New Zealand,Pakistan,Wicket-keeper,ODI,Rawalpindi Cricket Stadium,25,28,89.29,0
+M1120,2023-02-02,Rachin Ravindra,New Zealand,Pakistan,All-rounder,ODI,Rawalpindi Cricket Stadium,4,4,100.0,1
+M1120,2023-02-02,Shadab Khan,Pakistan,New Zealand,All-rounder,ODI,Rawalpindi Cricket Stadium,51,51,100.0,1
+M1121,2023-02-27,Jasprit Bumrah,India,New Zealand,Bowler,ODI,"Eden Gardens, Kolkata",9,13,69.23,0
+M1121,2023-02-27,Devon Conway,New Zealand,India,Batsman,ODI,"Eden Gardens, Kolkata",12,13,92.31,0
+M1121,2023-02-27,Mitchell Santner,New Zealand,India,All-rounder,ODI,"Eden Gardens, Kolkata",18,20,90.0,0
+M1121,2023-02-27,Rohit Sharma,India,New Zealand,Batsman,ODI,"Eden Gardens, Kolkata",80,109,73.39,1
+M1121,2023-02-27,Mohammed Shami,India,New Zealand,Bowler,ODI,"Eden Gardens, Kolkata",2,2,100.0,3
+M1122,2023-03-27,Dhananjaya de Silva,Sri Lanka,Bangladesh,All-rounder,T20I,Pallekele International Stadium,12,11,109.09,0
+M1122,2023-03-27,Najmul Hossain Shanto,Bangladesh,Sri Lanka,Batsman,T20I,Pallekele International Stadium,26,18,144.44,0
+M1122,2023-03-27,Kasun Rajitha,Sri Lanka,Bangladesh,Bowler,T20I,Pallekele International Stadium,4,3,133.33,0
+M1122,2023-03-27,Charith Asalanka,Sri Lanka,Bangladesh,Batsman,T20I,Pallekele International Stadium,67,44,152.27,0
+M1122,2023-03-27,Towhid Hridoy,Bangladesh,Sri Lanka,Batsman,T20I,Pallekele International Stadium,27,23,117.39,0
+M1123,2023-04-12,Jos Buttler,England,Australia,Wicket-keeper,Test,Melbourne Cricket Ground,0,3,0.0,0
+M1123,2023-04-12,Alex Carey,Australia,England,Wicket-keeper,Test,Melbourne Cricket Ground,22,44,50.0,0
+M1123,2023-04-12,Pat Cummins,Australia,England,Bowler,Test,Melbourne Cricket Ground,1,3,33.33,3
+M1123,2023-04-12,Mitchell Marsh,Australia,England,All-rounder,Test,Melbourne Cricket Ground,25,43,58.14,2
+M1123,2023-04-12,Moeen Ali,England,Australia,All-rounder,Test,Melbourne Cricket Ground,12,37,32.43,2
+M1124,2023-05-03,Angelo Mathews,Sri Lanka,New Zealand,All-rounder,Test,"Eden Park, Auckland",8,14,57.14,1
+M1124,2023-05-03,Dhananjaya de Silva,Sri Lanka,New Zealand,All-rounder,Test,"Eden Park, Auckland",0,7,0.0,4
+M1124,2023-05-03,Dushmantha Chameera,Sri Lanka,New Zealand,Bowler,Test,"Eden Park, Auckland",1,2,50.0,7
+M1124,2023-05-03,Kasun Rajitha,Sri Lanka,New Zealand,Bowler,Test,"Eden Park, Auckland",0,8,0.0,2
+M1124,2023-05-03,Wanindu Hasaranga,Sri Lanka,New Zealand,All-rounder,Test,"Eden Park, Auckland",148,250,59.2,0
+M1125,2023-05-03,Mohammad Nabi,Afghanistan,Bangladesh,All-rounder,ODI,"Sheikh Zayed Stadium, Abu Dhabi",23,20,115.0,1
+M1125,2023-05-03,Shoriful Islam,Bangladesh,Afghanistan,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",0,5,0.0,3
+M1125,2023-05-03,Taijul Islam,Bangladesh,Afghanistan,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",0,4,0.0,2
+M1125,2023-05-03,Taskin Ahmed,Bangladesh,Afghanistan,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",9,14,64.29,5
+M1125,2023-05-03,Rashid Khan,Afghanistan,Bangladesh,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",49,91,53.85,1
+M1126,2023-05-26,Mitchell Santner,New Zealand,India,All-rounder,T20I,"Seddon Park, Hamilton",3,2,150.0,0
+M1126,2023-05-26,Rachin Ravindra,New Zealand,India,All-rounder,T20I,"Seddon Park, Hamilton",0,1,0.0,0
+M1126,2023-05-26,Trent Boult,New Zealand,India,Bowler,T20I,"Seddon Park, Hamilton",3,4,75.0,0
+M1126,2023-05-26,Hardik Pandya,India,New Zealand,All-rounder,T20I,"Seddon Park, Hamilton",3,2,150.0,0
+M1126,2023-05-26,Tim Southee,New Zealand,India,Bowler,T20I,"Seddon Park, Hamilton",1,1,100.0,0
+M1127,2023-06-22,Trent Boult,New Zealand,West Indies,Bowler,T20I,"Hagley Oval, Christchurch",10,11,90.91,3
+M1127,2023-06-22,Kane Williamson,New Zealand,West Indies,Batsman,T20I,"Hagley Oval, Christchurch",8,7,114.29,0
+M1127,2023-06-22,Alzarri Joseph,West Indies,New Zealand,Bowler,T20I,"Hagley Oval, Christchurch",2,3,66.67,0
+M1127,2023-06-22,Tim Southee,New Zealand,West Indies,Bowler,T20I,"Hagley Oval, Christchurch",5,4,125.0,1
+M1127,2023-06-22,Kraigg Brathwaite,West Indies,New Zealand,Batsman,T20I,"Hagley Oval, Christchurch",63,40,157.5,0
+M1128,2023-06-24,Pat Cummins,Australia,New Zealand,Bowler,ODI,Adelaide Oval,7,19,36.84,1
+M1128,2023-06-24,Marnus Labuschagne,Australia,New Zealand,Batsman,ODI,Adelaide Oval,52,68,76.47,0
+M1128,2023-06-24,Kane Williamson,New Zealand,Australia,Batsman,ODI,Adelaide Oval,0,7,0.0,0
+M1128,2023-06-24,Mitchell Santner,New Zealand,Australia,All-rounder,ODI,Adelaide Oval,20,21,95.24,0
+M1128,2023-06-24,Alex Carey,Australia,New Zealand,Wicket-keeper,ODI,Adelaide Oval,0,4,0.0,0
+M1129,2023-07-28,Joe Root,England,Australia,Batsman,T20I,"Headingley, Leeds",0,6,0.0,0
+M1129,2023-07-28,David Warner,Australia,England,Batsman,T20I,"Headingley, Leeds",5,4,125.0,0
+M1129,2023-07-28,Jos Buttler,England,Australia,Wicket-keeper,T20I,"Headingley, Leeds",17,13,130.77,0
+M1129,2023-07-28,Travis Head,Australia,England,Batsman,T20I,"Headingley, Leeds",31,36,86.11,0
+M1129,2023-07-28,Ben Stokes,England,Australia,All-rounder,T20I,"Headingley, Leeds",54,34,158.82,0
+M1130,2023-08-05,Glenn Phillips,New Zealand,Afghanistan,All-rounder,ODI,"Sheikh Zayed Stadium, Abu Dhabi",52,62,83.87,1
+M1130,2023-08-05,Kane Williamson,New Zealand,Afghanistan,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",52,77,67.53,0
+M1130,2023-08-05,Hashmatullah Shahidi,Afghanistan,New Zealand,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",5,5,100.0,0
+M1130,2023-08-05,Ibrahim Zadran,Afghanistan,New Zealand,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",158,160,98.75,0
+M1130,2023-08-05,Fazalhaq Farooqi,Afghanistan,New Zealand,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",0,8,0.0,1
+M1131,2023-08-26,Mujeeb Ur Rahman,Afghanistan,India,Bowler,T20I,"M. Chinnaswamy Stadium, Bengaluru",6,10,60.0,2
+M1131,2023-08-26,Rahmanullah Gurbaz,Afghanistan,India,Wicket-keeper,T20I,"M. Chinnaswamy Stadium, Bengaluru",21,18,116.67,0
+M1131,2023-08-26,Mohammad Nabi,Afghanistan,India,All-rounder,T20I,"M. Chinnaswamy Stadium, Bengaluru",5,3,166.67,1
+M1131,2023-08-26,Hashmatullah Shahidi,Afghanistan,India,Batsman,T20I,"M. Chinnaswamy Stadium, Bengaluru",60,55,109.09,0
+M1131,2023-08-26,Ibrahim Zadran,Afghanistan,India,Batsman,T20I,"M. Chinnaswamy Stadium, Bengaluru",22,21,104.76,0
+M1132,2023-09-07,KL Rahul,India,Australia,Wicket-keeper,ODI,Perth Stadium,86,90,95.56,0
+M1132,2023-09-07,David Warner,Australia,India,Batsman,ODI,Perth Stadium,1,1,100.0,0
+M1132,2023-09-07,Mitchell Starc,Australia,India,Bowler,ODI,Perth Stadium,5,6,83.33,4
+M1132,2023-09-07,Josh Hazlewood,Australia,India,Bowler,ODI,Perth Stadium,2,3,66.67,2
+M1132,2023-09-07,Jasprit Bumrah,India,Australia,Bowler,ODI,Perth Stadium,4,5,80.0,1
+M1133,2023-10-14,Saud Shakeel,Pakistan,India,Batsman,Test,"M. Chinnaswamy Stadium, Bengaluru",6,23,26.09,0
+M1133,2023-10-14,Kuldeep Yadav,India,Pakistan,Bowler,Test,"M. Chinnaswamy Stadium, Bengaluru",6,14,42.86,0
+M1133,2023-10-14,Virat Kohli,India,Pakistan,Batsman,Test,"M. Chinnaswamy Stadium, Bengaluru",31,63,49.21,0
+M1133,2023-10-14,Fakhar Zaman,Pakistan,India,Batsman,Test,"M. Chinnaswamy Stadium, Bengaluru",0,6,0.0,0
+M1133,2023-10-14,Mohammed Shami,India,Pakistan,Bowler,Test,"M. Chinnaswamy Stadium, Bengaluru",2,5,40.0,1
+M1134,2023-10-29,Alzarri Joseph,West Indies,Sri Lanka,Bowler,ODI,"R. Premadasa Stadium, Colombo",7,7,100.0,1
+M1134,2023-10-29,Andre Russell,West Indies,Sri Lanka,All-rounder,ODI,"R. Premadasa Stadium, Colombo",21,20,105.0,2
+M1134,2023-10-29,Maheesh Theekshana,Sri Lanka,West Indies,Bowler,ODI,"R. Premadasa Stadium, Colombo",6,11,54.55,2
+M1134,2023-10-29,Kraigg Brathwaite,West Indies,Sri Lanka,Batsman,ODI,"R. Premadasa Stadium, Colombo",115,154,74.68,0
+M1134,2023-10-29,Nicholas Pooran,West Indies,Sri Lanka,Wicket-keeper,ODI,"R. Premadasa Stadium, Colombo",1,2,50.0,0
+M1135,2023-11-18,Litton Das,Bangladesh,Pakistan,Wicket-keeper,T20I,"National Stadium, Karachi",40,22,181.82,0
+M1135,2023-11-18,Babar Azam,Pakistan,Bangladesh,Batsman,T20I,"National Stadium, Karachi",6,4,150.0,0
+M1135,2023-11-18,Shadab Khan,Pakistan,Bangladesh,All-rounder,T20I,"National Stadium, Karachi",50,35,142.86,0
+M1135,2023-11-18,Towhid Hridoy,Bangladesh,Pakistan,Batsman,T20I,"National Stadium, Karachi",12,14,85.71,0
+M1135,2023-11-18,Mehidy Hasan Miraz,Bangladesh,Pakistan,All-rounder,T20I,"National Stadium, Karachi",3,2,150.0,0
+M1136,2023-12-19,Mustafizur Rahman,Bangladesh,Australia,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",0,6,0.0,1
+M1136,2023-12-19,Shoriful Islam,Bangladesh,Australia,Bowler,ODI,"Shere Bangla National Stadium, Dhaka",0,4,0.0,3
+M1136,2023-12-19,Najmul Hossain Shanto,Bangladesh,Australia,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",37,94,39.36,0
+M1136,2023-12-19,David Warner,Australia,Bangladesh,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",9,12,75.0,0
+M1136,2023-12-19,Marnus Labuschagne,Australia,Bangladesh,Batsman,ODI,"Shere Bangla National Stadium, Dhaka",153,160,95.62,0
+M1137,2023-12-25,Charith Asalanka,Sri Lanka,India,Batsman,ODI,"Arun Jaitley Stadium, Delhi",9,11,81.82,0
+M1137,2023-12-25,KL Rahul,India,Sri Lanka,Wicket-keeper,ODI,"Arun Jaitley Stadium, Delhi",32,32,100.0,0
+M1137,2023-12-25,Virat Kohli,India,Sri Lanka,Batsman,ODI,"Arun Jaitley Stadium, Delhi",3,3,100.0,0
+M1137,2023-12-25,Ravindra Jadeja,India,Sri Lanka,All-rounder,ODI,"Arun Jaitley Stadium, Delhi",5,6,83.33,1
+M1137,2023-12-25,Jasprit Bumrah,India,Sri Lanka,Bowler,ODI,"Arun Jaitley Stadium, Delhi",6,10,60.0,3
+M1138,2023-12-26,Zak Crawley,England,West Indies,Batsman,Test,"The Oval, London",19,34,55.88,0
+M1138,2023-12-26,Andre Russell,West Indies,England,All-rounder,Test,"The Oval, London",11,16,68.75,1
+M1138,2023-12-26,Ben Stokes,England,West Indies,All-rounder,Test,"The Oval, London",19,36,52.78,1
+M1138,2023-12-26,Ben Duckett,England,West Indies,Batsman,Test,"The Oval, London",0,1,0.0,0
+M1138,2023-12-26,Shai Hope,West Indies,England,Wicket-keeper,Test,"The Oval, London",116,255,45.49,0
+M1139,2023-12-27,Hashmatullah Shahidi,Afghanistan,Pakistan,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",47,54,87.04,0
+M1139,2023-12-27,Haris Rauf,Pakistan,Afghanistan,Bowler,ODI,"Sheikh Zayed Stadium, Abu Dhabi",30,53,56.6,0
+M1139,2023-12-27,Fakhar Zaman,Pakistan,Afghanistan,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",0,5,0.0,0
+M1139,2023-12-27,Babar Azam,Pakistan,Afghanistan,Batsman,ODI,"Sheikh Zayed Stadium, Abu Dhabi",6,9,66.67,0
+M1139,2023-12-27,Rahmanullah Gurbaz,Afghanistan,Pakistan,Wicket-keeper,ODI,"Sheikh Zayed Stadium, Abu Dhabi",11,9,122.22,0
+M1140,2024-01-13,Tim Southee,New Zealand,South Africa,Bowler,T20I,"Hagley Oval, Christchurch",3,3,100.0,2
+M1140,2024-01-13,Quinton de Kock,South Africa,New Zealand,Wicket-keeper,T20I,"Hagley Oval, Christchurch",8,6,133.33,0
+M1140,2024-01-13,Kagiso Rabada,South Africa,New Zealand,Bowler,T20I,"Hagley Oval, Christchurch",4,5,80.0,0
+M1140,2024-01-13,Glenn Phillips,New Zealand,South Africa,All-rounder,T20I,"Hagley Oval, Christchurch",23,11,209.09,1
+M1140,2024-01-13,Rassie van der Dussen,South Africa,New Zealand,Batsman,T20I,"Hagley Oval, Christchurch",71,70,101.43,0
+M1141,2024-01-20,Mitchell Santner,New Zealand,Afghanistan,All-rounder,Test,"Basin Reserve, Wellington",48,116,41.38,3
+M1141,2024-01-20,Mujeeb Ur Rahman,Afghanistan,New Zealand,Bowler,Test,"Basin Reserve, Wellington",0,8,0.0,4
+M1141,2024-01-20,Tom Latham,New Zealand,Afghanistan,Wicket-keeper,Test,"Basin Reserve, Wellington",32,61,52.46,0
+M1141,2024-01-20,Ibrahim Zadran,Afghanistan,New Zealand,Batsman,Test,"Basin Reserve, Wellington",68,105,64.76,0
+M1141,2024-01-20,Matt Henry,New Zealand,Afghanistan,Bowler,Test,"Basin Reserve, Wellington",3,7,42.86,4
+M1142,2024-01-31,Akeal Hosein,West Indies,New Zealand,Bowler,T20I,"Eden Park, Auckland",1,1,100.0,1
+M1142,2024-01-31,Daryl Mitchell,New Zealand,West Indies,Batsman,T20I,"Eden Park, Auckland",0,7,0.0,0
+M1142,2024-01-31,Brandon King,West Indies,New Zealand,Batsman,T20I,"Eden Park, Auckland",26,21,123.81,0
+M1142,2024-01-31,Nicholas Pooran,West Indies,New Zealand,Wicket-keeper,T20I,"Eden Park, Auckland",9,7,128.57,0
+M1142,2024-01-31,Kraigg Brathwaite,West Indies,New Zealand,Batsman,T20I,"Eden Park, Auckland",17,11,154.55,0
+M1143,2024-02-29,Mitchell Marsh,Australia,Sri Lanka,All-rounder,Test,"R. Premadasa Stadium, Colombo",16,25,64.0,0
+M1143,2024-02-29,David Warner,Australia,Sri Lanka,Batsman,Test,"R. Premadasa Stadium, Colombo",1,2,50.0,0
+M1143,2024-02-29,Pathum Nissanka,Sri Lanka,Australia,Batsman,Test,"R. Premadasa Stadium, Colombo",102,189,53.97,0
+M1143,2024-02-29,Pat Cummins,Australia,Sri Lanka,Bowler,Test,"R. Premadasa Stadium, Colombo",2,3,66.67,2
+M1143,2024-02-29,Kusal Mendis,Sri Lanka,Australia,Wicket-keeper,Test,"R. Premadasa Stadium, Colombo",6,17,35.29,0
+M1144,2024-03-02,Mitchell Starc,Australia,New Zealand,Bowler,ODI,Perth Stadium,12,15,80.0,1
+M1144,2024-03-02,Marnus Labuschagne,Australia,New Zealand,Batsman,ODI,Perth Stadium,33,30,110.0,0
+M1144,2024-03-02,Kane Williamson,New Zealand,Australia,Batsman,ODI,Perth Stadium,32,50,64.0,0
+M1144,2024-03-02,Rachin Ravindra,New Zealand,Australia,All-rounder,ODI,Perth Stadium,32,88,36.36,0
+M1144,2024-03-02,Trent Boult,New Zealand,Australia,Bowler,ODI,Perth Stadium,17,24,70.83,3
+M1145,2024-04-03,Mohammad Nabi,Afghanistan,England,All-rounder,ODI,"The Oval, London",7,5,140.0,1
+M1145,2024-04-03,Naveen-ul-Haq,Afghanistan,England,Bowler,ODI,"The Oval, London",5,8,62.5,1
+M1145,2024-04-03,Harry Brook,England,Afghanistan,Batsman,ODI,"The Oval, London",118,120,98.33,0
+M1145,2024-04-03,Mark Wood,England,Afghanistan,Bowler,ODI,"The Oval, London",0,8,0.0,3
+M1145,2024-04-03,Jos Buttler,England,Afghanistan,Wicket-keeper,ODI,"The Oval, London",15,26,57.69,0
+M1146,2024-04-04,Ben Stokes,England,Bangladesh,All-rounder,T20I,"Old Trafford, Manchester",5,4,125.0,1
+M1146,2024-04-04,Zak Crawley,England,Bangladesh,Batsman,T20I,"Old Trafford, Manchester",4,4,100.0,0
+M1146,2024-04-04,Mushfiqur Rahim,Bangladesh,England,Wicket-keeper,T20I,"Old Trafford, Manchester",34,29,117.24,0
+M1146,2024-04-04,Mark Wood,England,Bangladesh,Bowler,T20I,"Old Trafford, Manchester",2,1,200.0,1
+M1146,2024-04-04,Ben Duckett,England,Bangladesh,Batsman,T20I,"Old Trafford, Manchester",2,2,100.0,0
+M1147,2024-04-17,Kusal Mendis,Sri Lanka,England,Wicket-keeper,Test,"R. Premadasa Stadium, Colombo",28,56,50.0,0
+M1147,2024-04-17,Angelo Mathews,Sri Lanka,England,All-rounder,Test,"R. Premadasa Stadium, Colombo",23,41,56.1,2
+M1147,2024-04-17,Wanindu Hasaranga,Sri Lanka,England,All-rounder,Test,"R. Premadasa Stadium, Colombo",54,89,60.67,0
+M1147,2024-04-17,Jonny Bairstow,England,Sri Lanka,Wicket-keeper,Test,"R. Premadasa Stadium, Colombo",29,58,50.0,0
+M1147,2024-04-17,Harry Brook,England,Sri Lanka,Batsman,Test,"R. Premadasa Stadium, Colombo",16,22,72.73,0
+M1148,2024-05-07,Ben Stokes,England,Australia,All-rounder,Test,"Headingley, Leeds",6,10,60.0,5
+M1148,2024-05-07,Mitchell Marsh,Australia,England,All-rounder,Test,"Headingley, Leeds",117,183,63.93,1
+M1148,2024-05-07,Pat Cummins,Australia,England,Bowler,Test,"Headingley, Leeds",0,1,0.0,2
+M1148,2024-05-07,Marnus Labuschagne,Australia,England,Batsman,Test,"Headingley, Leeds",48,100,48.0,0
+M1148,2024-05-07,David Warner,Australia,England,Batsman,Test,"Headingley, Leeds",97,174,55.75,1
+M1149,2024-05-17,Alzarri Joseph,West Indies,India,Bowler,ODI,"Wankhede Stadium, Mumbai",2,6,33.33,0
+M1149,2024-05-17,Rohit Sharma,India,West Indies,Batsman,ODI,"Wankhede Stadium, Mumbai",32,38,84.21,0
+M1149,2024-05-17,Mohammed Shami,India,West Indies,Bowler,ODI,"Wankhede Stadium, Mumbai",28,39,71.79,1
+M1149,2024-05-17,Nicholas Pooran,West Indies,India,Wicket-keeper,ODI,"Wankhede Stadium, Mumbai",5,9,55.56,0
+M1149,2024-05-17,Rishabh Pant,India,West Indies,Wicket-keeper,ODI,"Wankhede Stadium, Mumbai",89,160,55.62,0
+M1150,2024-05-26,Azmatullah Omarzai,Afghanistan,Bangladesh,All-rounder,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",0,1,0.0,1
+M1150,2024-05-26,Mohammad Nabi,Afghanistan,Bangladesh,All-rounder,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",8,9,88.89,0
+M1150,2024-05-26,Mehidy Hasan Miraz,Bangladesh,Afghanistan,All-rounder,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",11,12,91.67,2
+M1150,2024-05-26,Taijul Islam,Bangladesh,Afghanistan,Bowler,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",6,6,100.0,1
+M1150,2024-05-26,Towhid Hridoy,Bangladesh,Afghanistan,Batsman,ODI,"Zahur Ahmed Chowdhury Stadium, Chattogram",29,28,103.57,0
+M1151,2024-05-30,Haris Rauf,Pakistan,Bangladesh,Bowler,T20I,"Gaddafi Stadium, Lahore",2,2,100.0,2
+M1151,2024-05-30,Towhid Hridoy,Bangladesh,Pakistan,Batsman,T20I,"Gaddafi Stadium, Lahore",24,27,88.89,0
+M1151,2024-05-30,Shadab Khan,Pakistan,Bangladesh,All-rounder,T20I,"Gaddafi Stadium, Lahore",5,3,166.67,0
+M1151,2024-05-30,Taskin Ahmed,Bangladesh,Pakistan,Bowler,T20I,"Gaddafi Stadium, Lahore",14,16,87.5,1
+M1151,2024-05-30,Saud Shakeel,Pakistan,Bangladesh,Batsman,T20I,"Gaddafi Stadium, Lahore",38,23,165.22,0
+M1152,2024-06-01,Alzarri Joseph,West Indies,Pakistan,Bowler,T20I,"National Stadium, Karachi",7,5,140.0,0
+M1152,2024-06-01,Fakhar Zaman,Pakistan,West Indies,Batsman,T20I,"National Stadium, Karachi",0,8,0.0,0
+M1152,2024-06-01,Babar Azam,Pakistan,West Indies,Batsman,T20I,"National Stadium, Karachi",56,63,88.89,0
+M1152,2024-06-01,Kemar Roach,West Indies,Pakistan,Bowler,T20I,"National Stadium, Karachi",1,2,50.0,2
+M1152,2024-06-01,Imam-ul-Haq,Pakistan,West Indies,Batsman,T20I,"National Stadium, Karachi",3,2,150.0,0
+M1153,2024-06-04,Dimuth Karunaratne,Sri Lanka,Australia,Batsman,Test,Galle International Stadium,21,40,52.5,0
+M1153,2024-06-04,Kusal Mendis,Sri Lanka,Australia,Wicket-keeper,Test,Galle International Stadium,56,110,50.91,0
+M1153,2024-06-04,Mitchell Starc,Australia,Sri Lanka,Bowler,Test,Galle International Stadium,10,20,50.0,5
+M1153,2024-06-04,Maheesh Theekshana,Sri Lanka,Australia,Bowler,Test,Galle International Stadium,6,15,40.0,1
+M1153,2024-06-04,Steve Smith,Australia,Sri Lanka,Batsman,Test,Galle International Stadium,14,28,50.0,1
+M1154,2024-06-04,Dushmantha Chameera,Sri Lanka,India,Bowler,Test,"R. Premadasa Stadium, Colombo",12,31,38.71,0
+M1154,2024-06-04,Ravindra Jadeja,India,Sri Lanka,All-rounder,Test,"R. Premadasa Stadium, Colombo",53,123,43.09,0
+M1154,2024-06-04,Angelo Mathews,Sri Lanka,India,All-rounder,Test,"R. Premadasa Stadium, Colombo",89,168,52.98,0
+M1154,2024-06-04,Virat Kohli,India,Sri Lanka,Batsman,Test,"R. Premadasa Stadium, Colombo",74,151,49.01,0
+M1154,2024-06-04,Pathum Nissanka,Sri Lanka,India,Batsman,Test,"R. Premadasa Stadium, Colombo",16,26,61.54,0
+M1155,2024-07-05,Maheesh Theekshana,Sri Lanka,New Zealand,Bowler,Test,"Seddon Park, Hamilton",6,17,35.29,2
+M1155,2024-07-05,Devon Conway,New Zealand,Sri Lanka,Batsman,Test,"Seddon Park, Hamilton",113,213,53.05,0
+M1155,2024-07-05,Kasun Rajitha,Sri Lanka,New Zealand,Bowler,Test,"Seddon Park, Hamilton",6,18,33.33,2
+M1155,2024-07-05,Wanindu Hasaranga,Sri Lanka,New Zealand,All-rounder,Test,"Seddon Park, Hamilton",35,174,20.11,0
+M1155,2024-07-05,Glenn Phillips,New Zealand,Sri Lanka,All-rounder,Test,"Seddon Park, Hamilton",19,26,73.08,2
+M1156,2024-07-24,Taijul Islam,Bangladesh,West Indies,Bowler,T20I,"Providence Stadium, Guyana",3,2,150.0,2
+M1156,2024-07-24,Shoriful Islam,Bangladesh,West Indies,Bowler,T20I,"Providence Stadium, Guyana",0,3,0.0,2
+M1156,2024-07-24,Shakib Al Hasan,Bangladesh,West Indies,All-rounder,T20I,"Providence Stadium, Guyana",73,36,202.78,0
+M1156,2024-07-24,Kraigg Brathwaite,West Indies,Bangladesh,Batsman,T20I,"Providence Stadium, Guyana",7,5,140.0,0
+M1156,2024-07-24,Jason Holder,West Indies,Bangladesh,All-rounder,T20I,"Providence Stadium, Guyana",20,13,153.85,0
+M1157,2024-07-28,James Anderson,England,West Indies,Bowler,ODI,"Sabina Park, Jamaica",10,13,76.92,1
+M1157,2024-07-28,Jason Holder,West Indies,England,All-rounder,ODI,"Sabina Park, Jamaica",3,3,100.0,0
+M1157,2024-07-28,Shai Hope,West Indies,England,Wicket-keeper,ODI,"Sabina Park, Jamaica",5,8,62.5,0
+M1157,2024-07-28,Brandon King,West Indies,England,Batsman,ODI,"Sabina Park, Jamaica",2,2,100.0,0
+M1157,2024-07-28,Harry Brook,England,West Indies,Batsman,ODI,"Sabina Park, Jamaica",49,61,80.33,0
+M1158,2024-07-28,Taskin Ahmed,Bangladesh,Pakistan,Bowler,T20I,Sylhet International Stadium,7,5,140.0,1
+M1158,2024-07-28,Saud Shakeel,Pakistan,Bangladesh,Batsman,T20I,Sylhet International Stadium,17,12,141.67,0
+M1158,2024-07-28,Najmul Hossain Shanto,Bangladesh,Pakistan,Batsman,T20I,Sylhet International Stadium,0,3,0.0,0
+M1158,2024-07-28,Shakib Al Hasan,Bangladesh,Pakistan,All-rounder,T20I,Sylhet International Stadium,0,7,0.0,3
+M1158,2024-07-28,Mushfiqur Rahim,Bangladesh,Pakistan,Wicket-keeper,T20I,Sylhet International Stadium,32,22,145.45,0
+M1159,2024-08-02,Mitchell Santner,New Zealand,Afghanistan,All-rounder,T20I,"Eden Park, Auckland",13,7,185.71,1
+M1159,2024-08-02,Rashid Khan,Afghanistan,New Zealand,Bowler,T20I,"Eden Park, Auckland",4,7,57.14,1
+M1159,2024-08-02,Tim Southee,New Zealand,Afghanistan,Bowler,T20I,"Eden Park, Auckland",6,8,75.0,2
+M1159,2024-08-02,Gulbadin Naib,Afghanistan,New Zealand,All-rounder,T20I,"Eden Park, Auckland",3,2,150.0,1
+M1159,2024-08-02,Kane Williamson,New Zealand,Afghanistan,Batsman,T20I,"Eden Park, Auckland",0,1,0.0,0
+M1160,2024-08-05,Anrich Nortje,South Africa,New Zealand,Bowler,Test,"Eden Park, Auckland",8,27,29.63,2
+M1160,2024-08-05,Heinrich Klaasen,South Africa,New Zealand,Wicket-keeper,Test,"Eden Park, Auckland",29,53,54.72,0
+M1160,2024-08-05,Devon Conway,New Zealand,South Africa,Batsman,Test,"Eden Park, Auckland",11,19,57.89,0
+M1160,2024-08-05,Kane Williamson,New Zealand,South Africa,Batsman,Test,"Eden Park, Auckland",11,17,64.71,0
+M1160,2024-08-05,Glenn Phillips,New Zealand,South Africa,All-rounder,Test,"Eden Park, Auckland",22,31,70.97,0
+M1161,2024-08-09,Mustafizur Rahman,Bangladesh,South Africa,Bowler,Test,Sylhet International Stadium,18,33,54.55,4
+M1161,2024-08-09,Towhid Hridoy,Bangladesh,South Africa,Batsman,Test,Sylhet International Stadium,24,31,77.42,0
+M1161,2024-08-09,Shakib Al Hasan,Bangladesh,South Africa,All-rounder,Test,Sylhet International Stadium,34,57,59.65,0
+M1161,2024-08-09,Anrich Nortje,South Africa,Bangladesh,Bowler,Test,Sylhet International Stadium,0,2,0.0,1
+M1161,2024-08-09,Quinton de Kock,South Africa,Bangladesh,Wicket-keeper,Test,Sylhet International Stadium,29,52,55.77,0
+M1162,2024-08-15,Daryl Mitchell,New Zealand,Australia,Batsman,Test,Sydney Cricket Ground,0,7,0.0,0
+M1162,2024-08-15,Mitchell Santner,New Zealand,Australia,All-rounder,Test,Sydney Cricket Ground,10,15,66.67,1
+M1162,2024-08-15,Marnus Labuschagne,Australia,New Zealand,Batsman,Test,Sydney Cricket Ground,0,2,0.0,0
+M1162,2024-08-15,Mitchell Marsh,Australia,New Zealand,All-rounder,Test,Sydney Cricket Ground,11,23,47.83,2
+M1162,2024-08-15,Trent Boult,New Zealand,Australia,Bowler,Test,Sydney Cricket Ground,35,58,60.34,2
+M1163,2024-08-24,Ben Stokes,England,India,All-rounder,Test,"Old Trafford, Manchester",20,28,71.43,1
+M1163,2024-08-24,Virat Kohli,India,England,Batsman,Test,"Old Trafford, Manchester",97,221,43.89,0
+M1163,2024-08-24,Jos Buttler,England,India,Wicket-keeper,Test,"Old Trafford, Manchester",63,125,50.4,0
+M1163,2024-08-24,Ravindra Jadeja,India,England,All-rounder,Test,"Old Trafford, Manchester",13,35,37.14,0
+M1163,2024-08-24,Jonny Bairstow,England,India,Wicket-keeper,Test,"Old Trafford, Manchester",6,10,60.0,0
+M1164,2024-09-02,Akeal Hosein,West Indies,Pakistan,Bowler,T20I,Multan Cricket Stadium,11,9,122.22,2
+M1164,2024-09-02,Shadab Khan,Pakistan,West Indies,All-rounder,T20I,Multan Cricket Stadium,0,6,0.0,1
+M1164,2024-09-02,Nicholas Pooran,West Indies,Pakistan,Wicket-keeper,T20I,Multan Cricket Stadium,33,35,94.29,0
+M1164,2024-09-02,Naseem Shah,Pakistan,West Indies,Bowler,T20I,Multan Cricket Stadium,7,10,70.0,1
+M1164,2024-09-02,Babar Azam,Pakistan,West Indies,Batsman,T20I,Multan Cricket Stadium,26,22,118.18,0
+M1165,2024-09-09,Devon Conway,New Zealand,England,Batsman,T20I,"The Oval, London",4,4,100.0,0
+M1165,2024-09-09,Matt Henry,New Zealand,England,Bowler,T20I,"The Oval, London",3,3,100.0,2
+M1165,2024-09-09,Jonny Bairstow,England,New Zealand,Wicket-keeper,T20I,"The Oval, London",47,50,94.0,0
+M1165,2024-09-09,Mitchell Santner,New Zealand,England,All-rounder,T20I,"The Oval, London",48,35,137.14,1
+M1165,2024-09-09,Zak Crawley,England,New Zealand,Batsman,T20I,"The Oval, London",6,7,85.71,0
+M1166,2024-09-17,Daryl Mitchell,New Zealand,India,Batsman,T20I,"Hagley Oval, Christchurch",14,9,155.56,0
+M1166,2024-09-17,KL Rahul,India,New Zealand,Wicket-keeper,T20I,"Hagley Oval, Christchurch",29,22,131.82,0
+M1166,2024-09-17,Devon Conway,New Zealand,India,Batsman,T20I,"Hagley Oval, Christchurch",34,24,141.67,0
+M1166,2024-09-17,Virat Kohli,India,New Zealand,Batsman,T20I,"Hagley Oval, Christchurch",38,35,108.57,0
+M1166,2024-09-17,Trent Boult,New Zealand,India,Bowler,T20I,"Hagley Oval, Christchurch",3,2,150.0,2
+M1167,2024-09-28,Charith Asalanka,Sri Lanka,India,Batsman,ODI,"Narendra Modi Stadium, Ahmedabad",0,5,0.0,0
+M1167,2024-09-28,Kuldeep Yadav,India,Sri Lanka,Bowler,ODI,"Narendra Modi Stadium, Ahmedabad",2,3,66.67,0
+M1167,2024-09-28,Dhananjaya de Silva,Sri Lanka,India,All-rounder,ODI,"Narendra Modi Stadium, Ahmedabad",0,5,0.0,1
+M1167,2024-09-28,Virat Kohli,India,Sri Lanka,Batsman,ODI,"Narendra Modi Stadium, Ahmedabad",33,35,94.29,0
+M1167,2024-09-28,Wanindu Hasaranga,Sri Lanka,India,All-rounder,ODI,"Narendra Modi Stadium, Ahmedabad",67,82,81.71,0
+M1168,2024-10-14,Naveen-ul-Haq,Afghanistan,England,Bowler,T20I,Sharjah Cricket Stadium,5,6,83.33,1
+M1168,2024-10-14,Moeen Ali,England,Afghanistan,All-rounder,T20I,Sharjah Cricket Stadium,21,16,131.25,0
+M1168,2024-10-14,Ben Duckett,England,Afghanistan,Batsman,T20I,Sharjah Cricket Stadium,43,31,138.71,0
+M1168,2024-10-14,Jonny Bairstow,England,Afghanistan,Wicket-keeper,T20I,Sharjah Cricket Stadium,4,3,133.33,0
+M1168,2024-10-14,Rahmanullah Gurbaz,Afghanistan,England,Wicket-keeper,T20I,Sharjah Cricket Stadium,17,11,154.55,0
+M1169,2024-10-30,Mohammad Nabi,Afghanistan,South Africa,All-rounder,T20I,"Newlands, Cape Town",13,8,162.5,0
+M1169,2024-10-30,Hashmatullah Shahidi,Afghanistan,South Africa,Batsman,T20I,"Newlands, Cape Town",0,7,0.0,0
+M1169,2024-10-30,Mujeeb Ur Rahman,Afghanistan,South Africa,Bowler,T20I,"Newlands, Cape Town",3,4,75.0,2
+M1169,2024-10-30,Rassie van der Dussen,South Africa,Afghanistan,Batsman,T20I,"Newlands, Cape Town",23,20,115.0,0
+M1169,2024-10-30,Anrich Nortje,South Africa,Afghanistan,Bowler,T20I,"Newlands, Cape Town",0,1,0.0,2
+M1170,2024-11-07,Naseem Shah,Pakistan,Sri Lanka,Bowler,T20I,Galle International Stadium,8,7,114.29,1
+M1170,2024-11-07,Dushmantha Chameera,Sri Lanka,Pakistan,Bowler,T20I,Galle International Stadium,4,3,133.33,4
+M1170,2024-11-07,Pathum Nissanka,Sri Lanka,Pakistan,Batsman,T20I,Galle International Stadium,22,17,129.41,0
+M1170,2024-11-07,Babar Azam,Pakistan,Sri Lanka,Batsman,T20I,Galle International Stadium,18,10,180.0,0
+M1170,2024-11-07,Imam-ul-Haq,Pakistan,Sri Lanka,Batsman,T20I,Galle International Stadium,15,12,125.0,0
+M1171,2024-11-08,Andre Russell,West Indies,Pakistan,All-rounder,T20I,"Gaddafi Stadium, Lahore",7,5,140.0,1
+M1171,2024-11-08,Akeal Hosein,West Indies,Pakistan,Bowler,T20I,"Gaddafi Stadium, Lahore",4,7,57.14,0
+M1171,2024-11-08,Brandon King,West Indies,Pakistan,Batsman,T20I,"Gaddafi Stadium, Lahore",31,19,163.16,0
+M1171,2024-11-08,Imam-ul-Haq,Pakistan,West Indies,Batsman,T20I,"Gaddafi Stadium, Lahore",88,50,176.0,0
+M1171,2024-11-08,Shimron Hetmyer,West Indies,Pakistan,Batsman,T20I,"Gaddafi Stadium, Lahore",16,11,145.45,0
+M1172,2024-11-26,Mitchell Starc,Australia,Pakistan,Bowler,T20I,Adelaide Oval,1,1,100.0,4
+M1172,2024-11-26,Saud Shakeel,Pakistan,Australia,Batsman,T20I,Adelaide Oval,16,11,145.45,0
+M1172,2024-11-26,Imam-ul-Haq,Pakistan,Australia,Batsman,T20I,Adelaide Oval,23,17,135.29,0
+M1172,2024-11-26,Shadab Khan,Pakistan,Australia,All-rounder,T20I,Adelaide Oval,6,5,120.0,0
+M1172,2024-11-26,Naseem Shah,Pakistan,Australia,Bowler,T20I,Adelaide Oval,2,2,100.0,3
+M1173,2024-12-12,Wanindu Hasaranga,Sri Lanka,New Zealand,All-rounder,ODI,"Basin Reserve, Wellington",0,6,0.0,0
+M1173,2024-12-12,Dushmantha Chameera,Sri Lanka,New Zealand,Bowler,ODI,"Basin Reserve, Wellington",31,51,60.78,1
+M1173,2024-12-12,Dhananjaya de Silva,Sri Lanka,New Zealand,All-rounder,ODI,"Basin Reserve, Wellington",21,26,80.77,2
+M1173,2024-12-12,Trent Boult,New Zealand,Sri Lanka,Bowler,ODI,"Basin Reserve, Wellington",5,7,71.43,3
+M1173,2024-12-12,Tim Southee,New Zealand,Sri Lanka,Bowler,ODI,"Basin Reserve, Wellington",9,23,39.13,0
+M1174,2024-12-30,Shimron Hetmyer,West Indies,England,Batsman,T20I,"Headingley, Leeds",36,16,225.0,0
+M1174,2024-12-30,Nicholas Pooran,West Indies,England,Wicket-keeper,T20I,"Headingley, Leeds",0,3,0.0,0
+M1174,2024-12-30,Jos Buttler,England,West Indies,Wicket-keeper,T20I,"Headingley, Leeds",16,11,145.45,0
+M1174,2024-12-30,Zak Crawley,England,West Indies,Batsman,T20I,"Headingley, Leeds",0,7,0.0,0
+M1174,2024-12-30,Joe Root,England,West Indies,Batsman,T20I,"Headingley, Leeds",39,26,150.0,0
+M1175,2025-01-10,Moeen Ali,England,Australia,All-rounder,T20I,Sydney Cricket Ground,0,4,0.0,1
+M1175,2025-01-10,David Warner,Australia,England,Batsman,T20I,Sydney Cricket Ground,6,5,120.0,0
+M1175,2025-01-10,Alex Carey,Australia,England,Wicket-keeper,T20I,Sydney Cricket Ground,128,70,182.86,0
+M1175,2025-01-10,Jos Buttler,England,Australia,Wicket-keeper,T20I,Sydney Cricket Ground,10,8,125.0,0
+M1175,2025-01-10,Mitchell Marsh,Australia,England,All-rounder,T20I,Sydney Cricket Ground,11,6,183.33,0
+M1176,2025-02-02,Mushfiqur Rahim,Bangladesh,Australia,Wicket-keeper,T20I,Melbourne Cricket Ground,17,14,121.43,0
+M1176,2025-02-02,Mehidy Hasan Miraz,Bangladesh,Australia,All-rounder,T20I,Melbourne Cricket Ground,1,1,100.0,0
+M1176,2025-02-02,Alex Carey,Australia,Bangladesh,Wicket-keeper,T20I,Melbourne Cricket Ground,31,26,119.23,0
+M1176,2025-02-02,Mitchell Starc,Australia,Bangladesh,Bowler,T20I,Melbourne Cricket Ground,11,12,91.67,2
+M1176,2025-02-02,Mitchell Marsh,Australia,Bangladesh,All-rounder,T20I,Melbourne Cricket Ground,9,7,128.57,0
+M1177,2025-03-05,Pathum Nissanka,Sri Lanka,New Zealand,Batsman,T20I,"Hagley Oval, Christchurch",8,6,133.33,0
+M1177,2025-03-05,Rachin Ravindra,New Zealand,Sri Lanka,All-rounder,T20I,"Hagley Oval, Christchurch",65,41,158.54,0
+M1177,2025-03-05,Dimuth Karunaratne,Sri Lanka,New Zealand,Batsman,T20I,"Hagley Oval, Christchurch",11,9,122.22,0
+M1177,2025-03-05,Devon Conway,New Zealand,Sri Lanka,Batsman,T20I,"Hagley Oval, Christchurch",0,5,0.0,0
+M1177,2025-03-05,Angelo Mathews,Sri Lanka,New Zealand,All-rounder,T20I,"Hagley Oval, Christchurch",0,8,0.0,0
+M1178,2025-03-19,Tom Latham,New Zealand,Afghanistan,Wicket-keeper,ODI,"Seddon Park, Hamilton",29,38,76.32,0
+M1178,2025-03-19,Matt Henry,New Zealand,Afghanistan,Bowler,ODI,"Seddon Park, Hamilton",1,2,50.0,0
+M1178,2025-03-19,Rachin Ravindra,New Zealand,Afghanistan,All-rounder,ODI,"Seddon Park, Hamilton",17,14,121.43,0
+M1178,2025-03-19,Trent Boult,New Zealand,Afghanistan,Bowler,ODI,"Seddon Park, Hamilton",21,32,65.62,2
+M1178,2025-03-19,Daryl Mitchell,New Zealand,Afghanistan,Batsman,ODI,"Seddon Park, Hamilton",7,7,100.0,0
+M1179,2025-03-25,Zak Crawley,England,Bangladesh,Batsman,T20I,"Headingley, Leeds",30,34,88.24,0
+M1179,2025-03-25,Taskin Ahmed,Bangladesh,England,Bowler,T20I,"Headingley, Leeds",5,5,100.0,1
+M1179,2025-03-25,Ben Stokes,England,Bangladesh,All-rounder,T20I,"Headingley, Leeds",1,1,100.0,5
+M1179,2025-03-25,Jonny Bairstow,England,Bangladesh,Wicket-keeper,T20I,"Headingley, Leeds",34,23,147.83,0
+M1179,2025-03-25,Shakib Al Hasan,Bangladesh,England,All-rounder,T20I,"Headingley, Leeds",31,19,163.16,0
+M1180,2025-03-28,Zak Crawley,England,Bangladesh,Batsman,Test,Sylhet International Stadium,51,89,57.3,0
+M1180,2025-03-28,Litton Das,Bangladesh,England,Wicket-keeper,Test,Sylhet International Stadium,0,8,0.0,0
+M1180,2025-03-28,Mehidy Hasan Miraz,Bangladesh,England,All-rounder,Test,Sylhet International Stadium,10,18,55.56,0
+M1180,2025-03-28,Shakib Al Hasan,Bangladesh,England,All-rounder,Test,Sylhet International Stadium,20,32,62.5,1
+M1180,2025-03-28,Moeen Ali,England,Bangladesh,All-rounder,Test,Sylhet International Stadium,0,8,0.0,3
+M1181,2025-03-28,Marnus Labuschagne,Australia,West Indies,Batsman,Test,Adelaide Oval,5,12,41.67,0
+M1181,2025-03-28,Nicholas Pooran,West Indies,Australia,Wicket-keeper,Test,Adelaide Oval,34,57,59.65,0
+M1181,2025-03-28,Alzarri Joseph,West Indies,Australia,Bowler,Test,Adelaide Oval,4,20,20.0,0
+M1181,2025-03-28,Kraigg Brathwaite,West Indies,Australia,Batsman,Test,Adelaide Oval,58,98,59.18,0
+M1181,2025-03-28,Mitchell Marsh,Australia,West Indies,All-rounder,Test,Adelaide Oval,39,56,69.64,2
+M1182,2025-03-31,Joe Root,England,India,Batsman,ODI,"Narendra Modi Stadium, Ahmedabad",11,13,84.62,0
+M1182,2025-03-31,KL Rahul,India,England,Wicket-keeper,ODI,"Narendra Modi Stadium, Ahmedabad",57,50,114.0,0
+M1182,2025-03-31,Jasprit Bumrah,India,England,Bowler,ODI,"Narendra Modi Stadium, Ahmedabad",4,5,80.0,0
+M1182,2025-03-31,Virat Kohli,India,England,Batsman,ODI,"Narendra Modi Stadium, Ahmedabad",32,33,96.97,0
+M1182,2025-03-31,Jonny Bairstow,England,India,Wicket-keeper,ODI,"Narendra Modi Stadium, Ahmedabad",19,21,90.48,0
+M1183,2025-04-01,Joe Root,England,West Indies,Batsman,ODI,"Old Trafford, Manchester",0,3,0.0,0
+M1183,2025-04-01,Kemar Roach,West Indies,England,Bowler,ODI,"Old Trafford, Manchester",0,1,0.0,2
+M1183,2025-04-01,Andre Russell,West Indies,England,All-rounder,ODI,"Old Trafford, Manchester",8,7,114.29,0
+M1183,2025-04-01,Harry Brook,England,West Indies,Batsman,ODI,"Old Trafford, Manchester",5,5,100.0,0
+M1183,2025-04-01,Mark Wood,England,West Indies,Bowler,ODI,"Old Trafford, Manchester",0,1,0.0,2
+M1184,2025-04-04,Charith Asalanka,Sri Lanka,West Indies,Batsman,ODI,Pallekele International Stadium,1,1,100.0,0
+M1184,2025-04-04,Wanindu Hasaranga,Sri Lanka,West Indies,All-rounder,ODI,Pallekele International Stadium,4,6,66.67,2
+M1184,2025-04-04,Nicholas Pooran,West Indies,Sri Lanka,Wicket-keeper,ODI,Pallekele International Stadium,15,23,65.22,0
+M1184,2025-04-04,Dimuth Karunaratne,Sri Lanka,West Indies,Batsman,ODI,Pallekele International Stadium,30,29,103.45,1
+M1184,2025-04-04,Jason Holder,West Indies,Sri Lanka,All-rounder,ODI,Pallekele International Stadium,70,80,87.5,2
+M1185,2025-04-04,Charith Asalanka,Sri Lanka,Australia,Batsman,T20I,"R. Premadasa Stadium, Colombo",2,2,100.0,0
+M1185,2025-04-04,Kusal Mendis,Sri Lanka,Australia,Wicket-keeper,T20I,"R. Premadasa Stadium, Colombo",42,35,120.0,0
+M1185,2025-04-04,Kasun Rajitha,Sri Lanka,Australia,Bowler,T20I,"R. Premadasa Stadium, Colombo",3,3,100.0,0
+M1185,2025-04-04,David Warner,Australia,Sri Lanka,Batsman,T20I,"R. Premadasa Stadium, Colombo",4,2,200.0,0
+M1185,2025-04-04,Mitchell Marsh,Australia,Sri Lanka,All-rounder,T20I,"R. Premadasa Stadium, Colombo",15,10,150.0,1
+M1186,2025-04-17,Mark Wood,England,Australia,Bowler,T20I,Sydney Cricket Ground,0,1,0.0,1
+M1186,2025-04-17,Steve Smith,Australia,England,Batsman,T20I,Sydney Cricket Ground,6,6,100.0,0
+M1186,2025-04-17,Marnus Labuschagne,Australia,England,Batsman,T20I,Sydney Cricket Ground,33,31,106.45,0
+M1186,2025-04-17,Moeen Ali,England,Australia,All-rounder,T20I,Sydney Cricket Ground,27,22,122.73,1
+M1186,2025-04-17,Jos Buttler,England,Australia,Wicket-keeper,T20I,Sydney Cricket Ground,0,2,0.0,0
+M1187,2025-04-18,Pat Cummins,Australia,Afghanistan,Bowler,T20I,"The Gabba, Brisbane",2,2,100.0,1
+M1187,2025-04-18,Mitchell Starc,Australia,Afghanistan,Bowler,T20I,"The Gabba, Brisbane",4,2,200.0,1
+M1187,2025-04-18,Rahmanullah Gurbaz,Afghanistan,Australia,Wicket-keeper,T20I,"The Gabba, Brisbane",12,10,120.0,0
+M1187,2025-04-18,David Warner,Australia,Afghanistan,Batsman,T20I,"The Gabba, Brisbane",81,70,115.71,0
+M1187,2025-04-18,Naveen-ul-Haq,Afghanistan,Australia,Bowler,T20I,"The Gabba, Brisbane",0,1,0.0,1
+M1188,2025-04-21,Rohit Sharma,India,Australia,Batsman,T20I,Sydney Cricket Ground,24,18,133.33,0
+M1188,2025-04-21,Jasprit Bumrah,India,Australia,Bowler,T20I,Sydney Cricket Ground,0,6,0.0,2
+M1188,2025-04-21,David Warner,Australia,India,Batsman,T20I,Sydney Cricket Ground,95,50,190.0,0
+M1188,2025-04-21,Hardik Pandya,India,Australia,All-rounder,T20I,Sydney Cricket Ground,5,4,125.0,1
+M1188,2025-04-21,Pat Cummins,Australia,India,Bowler,T20I,Sydney Cricket Ground,2,3,66.67,0
+M1189,2025-05-26,Angelo Mathews,Sri Lanka,India,All-rounder,ODI,"Wankhede Stadium, Mumbai",4,4,100.0,1
+M1189,2025-05-26,Kusal Mendis,Sri Lanka,India,Wicket-keeper,ODI,"Wankhede Stadium, Mumbai",104,101,102.97,0
+M1189,2025-05-26,Ravindra Jadeja,India,Sri Lanka,All-rounder,ODI,"Wankhede Stadium, Mumbai",16,14,114.29,1
+M1189,2025-05-26,Dimuth Karunaratne,Sri Lanka,India,Batsman,ODI,"Wankhede Stadium, Mumbai",122,160,76.25,0
+M1189,2025-05-26,Dhananjaya de Silva,Sri Lanka,India,All-rounder,ODI,"Wankhede Stadium, Mumbai",3,3,100.0,0
+M1190,2025-06-12,Pat Cummins,Australia,New Zealand,Bowler,T20I,Perth Stadium,2,2,100.0,2
+M1190,2025-06-12,Matt Henry,New Zealand,Australia,Bowler,T20I,Perth Stadium,1,1,100.0,0
+M1190,2025-06-12,David Warner,Australia,New Zealand,Batsman,T20I,Perth Stadium,5,4,125.0,0
+M1190,2025-06-12,Kane Williamson,New Zealand,Australia,Batsman,T20I,Perth Stadium,25,19,131.58,0
+M1190,2025-06-12,Trent Boult,New Zealand,Australia,Bowler,T20I,Perth Stadium,1,1,100.0,2
+M1191,2025-06-21,Litton Das,Bangladesh,Pakistan,Wicket-keeper,T20I,"National Stadium, Karachi",18,11,163.64,0
+M1191,2025-06-21,Naseem Shah,Pakistan,Bangladesh,Bowler,T20I,"National Stadium, Karachi",11,11,100.0,0
+M1191,2025-06-21,Mustafizur Rahman,Bangladesh,Pakistan,Bowler,T20I,"National Stadium, Karachi",2,2,100.0,0
+M1191,2025-06-21,Shoriful Islam,Bangladesh,Pakistan,Bowler,T20I,"National Stadium, Karachi",3,3,100.0,3
+M1191,2025-06-21,Shaheen Afridi,Pakistan,Bangladesh,Bowler,T20I,"National Stadium, Karachi",0,2,0.0,0
+M1192,2025-06-24,Temba Bavuma,South Africa,India,Batsman,T20I,"Kingsmead, Durban",10,7,142.86,0
+M1192,2025-06-24,Hardik Pandya,India,South Africa,All-rounder,T20I,"Kingsmead, Durban",26,18,144.44,0
+M1192,2025-06-24,Mohammed Shami,India,South Africa,Bowler,T20I,"Kingsmead, Durban",3,4,75.0,3
+M1192,2025-06-24,David Miller,South Africa,India,Batsman,T20I,"Kingsmead, Durban",0,2,0.0,0
+M1192,2025-06-24,Rassie van der Dussen,South Africa,India,Batsman,T20I,"Kingsmead, Durban",11,14,78.57,0
+M1193,2025-06-29,Fakhar Zaman,Pakistan,South Africa,Batsman,ODI,Rawalpindi Cricket Stadium,63,64,98.44,0
+M1193,2025-06-29,Babar Azam,Pakistan,South Africa,Batsman,ODI,Rawalpindi Cricket Stadium,6,9,66.67,0
+M1193,2025-06-29,Heinrich Klaasen,South Africa,Pakistan,Wicket-keeper,ODI,Rawalpindi Cricket Stadium,21,26,80.77,0
+M1193,2025-06-29,Naseem Shah,Pakistan,South Africa,Bowler,ODI,Rawalpindi Cricket Stadium,5,11,45.45,3
+M1193,2025-06-29,Saud Shakeel,Pakistan,South Africa,Batsman,ODI,Rawalpindi Cricket Stadium,93,111,83.78,0
+M1194,2025-07-08,Mark Wood,England,New Zealand,Bowler,Test,"Hagley Oval, Christchurch",4,18,22.22,1
+M1194,2025-07-08,Rachin Ravindra,New Zealand,England,All-rounder,Test,"Hagley Oval, Christchurch",0,8,0.0,1
+M1194,2025-07-08,James Anderson,England,New Zealand,Bowler,Test,"Hagley Oval, Christchurch",6,21,28.57,5
+M1194,2025-07-08,Harry Brook,England,New Zealand,Batsman,Test,"Hagley Oval, Christchurch",22,34,64.71,0
+M1194,2025-07-08,Ben Duckett,England,New Zealand,Batsman,Test,"Hagley Oval, Christchurch",43,141,30.5,0
+M1195,2025-07-10,Zak Crawley,England,South Africa,Batsman,ODI,"Newlands, Cape Town",19,19,100.0,0
+M1195,2025-07-10,Ben Stokes,England,South Africa,All-rounder,ODI,"Newlands, Cape Town",58,66,87.88,0
+M1195,2025-07-10,Anrich Nortje,South Africa,England,Bowler,ODI,"Newlands, Cape Town",7,7,100.0,1
+M1195,2025-07-10,David Miller,South Africa,England,Batsman,ODI,"Newlands, Cape Town",55,51,107.84,0
+M1195,2025-07-10,Marco Jansen,South Africa,England,All-rounder,ODI,"Newlands, Cape Town",81,87,93.1,0
+M1196,2025-07-16,Mark Wood,England,Afghanistan,Bowler,T20I,"Old Trafford, Manchester",7,8,87.5,2
+M1196,2025-07-16,Joe Root,England,Afghanistan,Batsman,T20I,"Old Trafford, Manchester",36,27,133.33,0
+M1196,2025-07-16,Harry Brook,England,Afghanistan,Batsman,T20I,"Old Trafford, Manchester",0,1,0.0,0
+M1196,2025-07-16,James Anderson,England,Afghanistan,Bowler,T20I,"Old Trafford, Manchester",14,16,87.5,0
+M1196,2025-07-16,Fazalhaq Farooqi,Afghanistan,England,Bowler,T20I,"Old Trafford, Manchester",0,6,0.0,0
+M1197,2025-07-25,Daryl Mitchell,New Zealand,Australia,Batsman,Test,"Hagley Oval, Christchurch",73,140,52.14,0
+M1197,2025-07-25,Matt Henry,New Zealand,Australia,Bowler,Test,"Hagley Oval, Christchurch",14,39,35.9,4
+M1197,2025-07-25,Rachin Ravindra,New Zealand,Australia,All-rounder,Test,"Hagley Oval, Christchurch",13,31,41.94,1
+M1197,2025-07-25,Josh Hazlewood,Australia,New Zealand,Bowler,Test,"Hagley Oval, Christchurch",5,11,45.45,3
+M1197,2025-07-25,Steve Smith,Australia,New Zealand,Batsman,Test,"Hagley Oval, Christchurch",1,2,50.0,0
+M1198,2025-08-10,Virat Kohli,India,Pakistan,Batsman,Test,"Arun Jaitley Stadium, Delhi",87,126,69.05,0
+M1198,2025-08-10,KL Rahul,India,Pakistan,Wicket-keeper,Test,"Arun Jaitley Stadium, Delhi",0,4,0.0,0
+M1198,2025-08-10,Jasprit Bumrah,India,Pakistan,Bowler,Test,"Arun Jaitley Stadium, Delhi",5,9,55.56,1
+M1198,2025-08-10,Imam-ul-Haq,Pakistan,India,Batsman,Test,"Arun Jaitley Stadium, Delhi",38,86,44.19,0
+M1198,2025-08-10,Mohammad Rizwan,Pakistan,India,Wicket-keeper,Test,"Arun Jaitley Stadium, Delhi",16,23,69.57,0
+M1199,2025-08-22,Fakhar Zaman,Pakistan,England,Batsman,T20I,"Gaddafi Stadium, Lahore",34,16,212.5,0
+M1199,2025-08-22,James Anderson,England,Pakistan,Bowler,T20I,"Gaddafi Stadium, Lahore",4,5,80.0,0
+M1199,2025-08-22,Zak Crawley,England,Pakistan,Batsman,T20I,"Gaddafi Stadium, Lahore",17,14,121.43,0
+M1199,2025-08-22,Jonny Bairstow,England,Pakistan,Wicket-keeper,T20I,"Gaddafi Stadium, Lahore",6,3,200.0,0
+M1199,2025-08-22,Saud Shakeel,Pakistan,England,Batsman,T20I,"Gaddafi Stadium, Lahore",7,5,140.0,0
+M1200,2025-09-16,Mohammad Nabi,Afghanistan,Bangladesh,All-rounder,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",10,7,142.86,2
+M1200,2025-09-16,Fazalhaq Farooqi,Afghanistan,Bangladesh,Bowler,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",13,11,118.18,1
+M1200,2025-09-16,Naveen-ul-Haq,Afghanistan,Bangladesh,Bowler,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",3,3,100.0,0
+M1200,2025-09-16,Gulbadin Naib,Afghanistan,Bangladesh,All-rounder,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",14,16,87.5,1
+M1200,2025-09-16,Mushfiqur Rahim,Bangladesh,Afghanistan,Wicket-keeper,T20I,"Zahur Ahmed Chowdhury Stadium, Chattogram",21,12,175.0,0
