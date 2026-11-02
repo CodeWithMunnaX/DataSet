@@ -13,7 +13,7 @@ DataSet/
 │   ├── customer.csv          # E-commerce orders (1000 rows)
 │   └── cricket_dataset.csv   # Player match stats (1000 rows)
 └── sql/
-    └── 01_sql_operators.sql  # SQL operators practice (questions + solutions)
+    └── customer.sql  # SQL operators practice (questions + solutions)
 ```
 
 ---
@@ -66,7 +66,7 @@ DataSet/
 
 ## 🧑‍💻 SQL Practice
 
-[`sql/01_sql_operators.sql`](sql/01_sql_operators.sql) — 5 questions per operator, each followed by its solution, using `customer.csv`:
+[`sql/customer.sql`](sql/customer.sql) — 5 questions per operator, each followed by its solution, using `customer.csv`:
 
 | # | Operator type | Operators                         |
 |---|---------------|-----------------------------------|
@@ -82,7 +82,7 @@ DataSet/
    ```bash
    git clone https://github.com/CodeWithMunnaX/DataSet.git
    ```
-2. Open `sql/01_sql_operators.sql` in SSMS or Azure Data Studio.
+2. Open `sql/customer.sql` in SSMS or Azure Data Studio.
 3. Update the `BULK INSERT` path to where `datasets/customer.csv` is on your machine.
 4. Run **STEP 0** to create the table and load the data (should return 1000 rows).
 5. Try each question yourself first, then check the solution below it.
